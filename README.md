@@ -8,7 +8,7 @@
 
 ### Machine Learning Algorithms
 
-- [x] 
+
 ### Linear Neural Networks (Regression problems)
 
 #### 3.1	Linear Regression
@@ -31,7 +31,7 @@
 
 - [x] 3.2.5 SoftMax Regression as Neural Network	
 
-- [x] 
+
 ### Deep Neural Networks	
 #### 4.1	MLP – Multilayer Perceptrons	
 
@@ -64,9 +64,9 @@
 
 - [x] 4.4.4 Data Augmentation	
 
-- [ ]
+
 ### Convolutional Neural Networks	
-- [x]
+
 #### 5.1	Convolutional Layers	
 - [x] 5.1.1 From Fully-Connected Layers to Convolutions	
 
@@ -90,14 +90,14 @@
 
 - [x] 5.2.6 Transfer Learning	
 
-- [ ] 
+
 ### Recurrent Neural Networks	
-- [ ]
+
  #### 6.1	Sequence Models	
 - [x] 6.1.1 Recurrent Neural Networks	
 
 - [ ] 6.1.2 Learning Parameters	
-- [ ] 
+
 #### 6.2 RNN Architectures	
 - [ ] 6.2.1 Gated Recurrent Units (GRU)	
 
@@ -107,24 +107,23 @@
 
 - [ ] 6.2.4 Bidirectional RNN	
 
-- [ ] 
+
 ### Deep Generative Models	
-- [ ] 
 #### 7.1 Variational AutoEncoder (VAE)	
 - [x] 7.1.1 Dimensionality Reduction	
 
 - [x] 7.1.2 Autoencoders (AE)	
 
 - [x] 7.1.3 Variational AutoEncoders (VAE)	
-- [ ] 
+
 #### 7.2 Generative Adversarial Networks (GANs)	
 - [ ] 7.2.1 Dimensionality reduction	
 
-- [ ] 
+
 ### Attention	
 - [ ] 8.1 Attention mechanism
 
-- [ ] 
+
 ### Computer Vision	
 - [ ] 9.1	Classification	
 
@@ -136,7 +135,7 @@
 
 - [ ] 9.5	Pose Estimation and Face Recognition	
 
-- [ ] 
+
 ### Natural Language Process	
 
 
