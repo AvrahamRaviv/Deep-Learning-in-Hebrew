@@ -88,7 +88,9 @@
 
 - [ ] 5.2.5 Densely Connected Networks (DenseNet)	
 
-- [x] 5.2.6 Transfer Learning	
+- [ ] 5.2.6 U-Net	
+
+- [x] 5.2.7 Transfer Learning	
 
 
 ### 6. Recurrent Neural Networks	
