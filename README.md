@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Introducion to Machine Learning
+- [x] ### Introducion to Machine Learning
 
 ### Machine Learning Algorithms
 
