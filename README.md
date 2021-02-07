@@ -12,9 +12,13 @@
 
 #### 3.1	Linear Regression
 3.1.1 The Basic Concept
+
 3.1.2 Gradient Descent	
+
 3.1.3 Regularization and Cross Validation	
+
 3.1.4 Linear Regression as Classifier	
+
 #### 3.2	Softmax Regression	
 3.2.1 Logistic Regression	
 3.2.2 Cross Entropy and Gradient descent	
