@@ -117,7 +117,7 @@
 - [x] 7.1.3 Variational AutoEncoders (VAE)	
 
 #### 7.2 Generative Adversarial Networks (GANs)	
-- [ ] 7.2.1 Dimensionality reduction	
+- [ ] 
 
 
 ### Attention	
