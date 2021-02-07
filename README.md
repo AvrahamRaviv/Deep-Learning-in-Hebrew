@@ -4,12 +4,12 @@
 
 ## Table of contents
 
-### Introducion to Machine Learning
+### 1. Introducion to Machine Learning
 
-### Machine Learning Algorithms
+### 2. Machine Learning Algorithms
 
 
-### Linear Neural Networks (Regression problems)
+### 3. Linear Neural Networks (Regression problems)
 
 #### 3.1	Linear Regression
 - [x] 3.1.1 The Basic Concept
@@ -32,7 +32,7 @@
 - [x] 3.2.5 SoftMax Regression as Neural Network	
 
 
-### Deep Neural Networks	
+### 4. Deep Neural Networks	
 #### 4.1	MLP – Multilayer Perceptrons	
 
 - [x] 4.1.1 From a Single Neuron to Deep Neural Network	
@@ -65,7 +65,7 @@
 - [x] 4.4.4 Data Augmentation	
 
 
-### Convolutional Neural Networks	
+### 5. Convolutional Neural Networks	
 
 #### 5.1	Convolutional Layers	
 - [x] 5.1.1 From Fully-Connected Layers to Convolutions	
@@ -91,7 +91,7 @@
 - [x] 5.2.6 Transfer Learning	
 
 
-### Recurrent Neural Networks	
+### 6. Recurrent Neural Networks	
 
  #### 6.1	Sequence Models	
 - [x] 6.1.1 Recurrent Neural Networks	
@@ -108,7 +108,7 @@
 - [ ] 6.2.4 Bidirectional RNN	
 
 
-### Deep Generative Models	
+### 7. Deep Generative Models	
 #### 7.1 Variational AutoEncoder (VAE)	
 - [x] 7.1.1 Dimensionality Reduction	
 
@@ -120,11 +120,11 @@
 - [ ] 
 
 
-### Attention	
+### 8. Attention	
 - [ ] 8.1 Attention mechanism
 
 
-### Computer Vision	
+### 9. Computer Vision	
 - [ ] 9.1	Classification	
 
 - [ ] 9.2	Segmentation	
@@ -136,7 +136,7 @@
 - [ ] 9.5	Pose Estimation and Face Recognition	
 
 
-### Natural Language Process	
+### 10. Natural Language Process	
 
 
 ## Peoples
