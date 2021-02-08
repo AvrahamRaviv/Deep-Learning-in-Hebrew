@@ -4,9 +4,16 @@
 
 ## Table of contents
 
-
-
-* [01. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
+* [1. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
+* [2. Machine Learning Algorithms](#2.Machine-Learning-Algorithms)
+* [3. Linear Neural Networks (Regression problems)](#3-Linear-Neural-Networks-(Regression-problems))
+* [4. Deep Neural Networks](#4-Deep-Neural-Networks)
+* [5. Convolutional Neural Networks](#5-Convolutional-Neural-Networks)
+* [6. Recurent Neural Networks](#6-Recurent-Neural-Networks)
+* [7. Deep Generative Models](#7-Deep-Generative-Models)
+* [8. Attention](#8-Attention)
+* [9. Computer Vision](#9-Computer-Vision)
+* [10. Natural Language Process](#10-Natural-Language-Process)
    
    
 --------------------------------------
