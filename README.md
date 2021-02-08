@@ -141,11 +141,11 @@
 #### 7.2 Generative Adversarial Networks (GANs)	
 - [X] 7.2.1 Generator and Discriminator
 
-- [ ] 7.2.2 Pix2Pix
+- [X] 7.2.2 DCGAN
 
-- [ ] 7.2.3 DCGAN
+- [X] 7.2.3 Pix2Pix
 
-- [ ] 7.2.4 CycleGAN
+- [X] 7.2.4 CycleGAN
 
 - [ ] 7.2.5 StyleGAN
 
