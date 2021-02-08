@@ -19,13 +19,13 @@
 --------------------------------------
 --------------------------------------
 
-### 1. Introducion to Machine Learning
+## 1. Introducion to Machine Learning
 
 
-### 2. Machine Learning Algorithms
+## 2. Machine Learning Algorithms
 
 
-### 3. Linear Neural Networks (Regression problems)
+## 3. Linear Neural Networks (Regression problems)
 
 #### 3.1	Linear Regression
 - [x] 3.1.1 The Basic Concept
@@ -49,7 +49,7 @@
 
 
 
-### 4. Deep Neural Networks	
+## 4. Deep Neural Networks	
 #### 4.1	MLP – Multilayer Perceptrons	
 
 - [x] 4.1.1 From a Single Neuron to Deep Neural Network	
@@ -83,7 +83,7 @@
 
 
 
-### 5. Convolutional Neural Networks	
+## 5. Convolutional Neural Networks	
 
 #### 5.1	Convolutional Layers	
 - [x] 5.1.1 From Fully-Connected Layers to Convolutions	
@@ -112,7 +112,7 @@
 
 
 
-### 6. Recurrent Neural Networks	
+## 6. Recurrent Neural Networks	
 
  #### 6.1	Sequence Models	
 - [x] 6.1.1 Recurrent Neural Networks	
@@ -130,7 +130,7 @@
 
 
 
-### 7. Deep Generative Models	
+## 7. Deep Generative Models	
 #### 7.1 Variational AutoEncoder (VAE)	
 - [x] 7.1.1 Dimensionality Reduction	
 
@@ -156,12 +156,12 @@
 
 #### 7.4 PixelRNN and PixelCNN
 
-### 8. Attention	
+## 8. Attention	
 - [ ] 8.1 Attention mechanism
 
 
 
-### 9. Computer Vision	
+## 9. Computer Vision	
 - [ ] 9.1	Classification	
 
 - [ ] 9.2	Segmentation	
@@ -174,7 +174,7 @@
 
 
 
-### 10. Natural Language Process	
+## 10. Natural Language Process	
 
 --------------------------------------
 --------------------------------------
