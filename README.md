@@ -151,7 +151,7 @@
 
 - [ ] GANs vs VAE
 
-
+#### 7.3 Pixel
 
 ### 8. Attention	
 - [ ] 8.1 Attention mechanism
