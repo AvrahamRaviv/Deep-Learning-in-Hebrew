@@ -4,7 +4,16 @@
 
 ## Table of contents
 
+
+
+* [01. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
+   
+   
+--------------------------------------
+--------------------------------------
+
 ### 1. Introducion to Machine Learning
+
 
 ### 2. Machine Learning Algorithms
 
@@ -30,6 +39,7 @@
 - [x] 3.2.4 SoftMax Regression – Multi Class Logistic Regression	
 
 - [x] 3.2.5 SoftMax Regression as Neural Network	
+
 
 
 ### 4. Deep Neural Networks	
@@ -65,6 +75,7 @@
 - [x] 4.4.4 Data Augmentation	
 
 
+
 ### 5. Convolutional Neural Networks	
 
 #### 5.1	Convolutional Layers	
@@ -93,6 +104,7 @@
 - [x] 5.2.7 Transfer Learning	
 
 
+
 ### 6. Recurrent Neural Networks	
 
  #### 6.1	Sequence Models	
@@ -110,6 +122,7 @@
 - [ ] 6.2.4 Bidirectional RNN	
 
 
+
 ### 7. Deep Generative Models	
 #### 7.1 Variational AutoEncoder (VAE)	
 - [x] 7.1.1 Dimensionality Reduction	
@@ -122,8 +135,10 @@
 - [ ] Generator and Discriminator
 
 
+
 ### 8. Attention	
 - [ ] 8.1 Attention mechanism
+
 
 
 ### 9. Computer Vision	
@@ -138,7 +153,12 @@
 - [ ] 9.5	Pose Estimation and Face Recognition	
 
 
+
 ### 10. Natural Language Process	
+
+--------------------------------------
+--------------------------------------
+
 
 
 ## Peoples
