@@ -139,19 +139,22 @@
 - [x] 7.1.3 Variational AutoEncoders (VAE)	
 
 #### 7.2 Generative Adversarial Networks (GANs)	
-- [X] Generator and Discriminator
+- [X] 7.2.1 Generator and Discriminator
 
-- [ ] DCGAN
+- [ ] 7.2.2 Pix2Pix
 
-- [ ] CycleGAN
+- [ ] 7.2.3 DCGAN
 
-- [ ] StyleGAN
+- [ ] 7.2.4 CycleGAN
 
-- [ ] Wasserstein GAN
+- [ ] 7.2.5 StyleGAN
 
-- [ ] GANs vs VAE
+- [ ] 7.2.6 Wasserstein GAN
 
-#### 7.3 Pixel
+
+#### 7.3 GANs vs VAE
+
+#### 7.4 PixelRNN and PixelCNN
 
 ### 8. Attention	
 - [ ] 8.1 Attention mechanism
