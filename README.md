@@ -141,6 +141,16 @@
 #### 7.2 Generative Adversarial Networks (GANs)	
 - [ ] Generator and Discriminator
 
+- [ ] DCGAN
+
+- [ ] CycleGAN
+
+- [ ] StyleGAN
+
+- [ ] Wasserstein GAN
+
+- [ ] GANs vs VAE
+
 
 
 ### 8. Attention	
