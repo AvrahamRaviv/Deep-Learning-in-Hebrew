@@ -175,6 +175,51 @@
 
 
 ## 10. Natural Language Process	
+#### 10.1 Text Classification
+
+- [ ] Automated Essay Scoring
+- [ ] Age Suitability Prediction
+- [ ] Natural Language Inference
+- [ ] Paraphrase Identification
+- [ ] Review Scoring
+- [ ] Semantic Textual Similarity
+- [ ] Sentence Embedding
+- [ ] Sentiment Analysis
+- [ ] Zero-shot Topic Classification
+
+#### 10.2 Sequence Tagging
+
+- [ ] Contextualized Embedding
+- [ ] Dependency Parsing
+- [ ] Fill-in-the-blank
+- [ ] Machine Reading Comprehension
+- [ ] Named Entity Recognition
+- [ ] Part-of-Speech Tagging
+- [ ] Semantic Role Labeling
+
+#### 10.3 Seq2Seq
+
+- [ ] Constituency Parsing
+- [ ] Grammatical Error Correction
+- [ ] Grapheme-to-Phoneme
+- [ ] Phoneme-to-Grapheme
+- [ ] Machine Translation
+- [ ] Paraphrase Generation
+- [ ] Question Generation
+- [ ] Text Summarization
+- [ ] Word Sense Disambiguation
+
+#### 10.4 Misc.
+
+- [ ] Automatic Speech Recognition
+- [ ] Image Captioning
+- [ ] Collocation
+- [ ] Lemmatization
+- [ ] Morphological Inflection
+- [ ] Optical Character Recognition
+- [ ] Tokenization
+- [ ] Word Translation
+- [ ] Word Embedding
 
 --------------------------------------
 --------------------------------------
