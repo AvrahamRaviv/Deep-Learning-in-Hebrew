@@ -5,7 +5,7 @@
 ## Table of contents
 
 * [1. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
-* [2. Machine Learning Algorithms](#2.Machine-Learning-Algorithms)
+* [2. Machine Learning Algorithms](#2-Machine-Learning-Algorithms)
 * [3. Linear Neural Networks (Regression problems)](#3-Linear-Neural-Networks-(Regression-problems))
 * [4. Deep Neural Networks](#4-Deep-Neural-Networks)
 * [5. Convolutional Neural Networks](#5-Convolutional-Neural-Networks)
