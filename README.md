@@ -132,9 +132,9 @@
 - [x] 6.1.2 Learning Parameters	
 
 #### 6.2 RNN Architectures	
-- [ ] 6.2.1 Gated Recurrent Units (GRU)	
+- [ ] 6.2.1 Long Short-Term Memory (LSTM)	
 
-- [ ] 6.2.2 Long Short-Term Memory (LSTM)	
+- [ ] 6.2.2 Gated Recurrent Units (GRU)	
 
 - [ ] 6.2.3 Deep RNN	
 
