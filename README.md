@@ -9,7 +9,7 @@
 * [3. Linear Neural Networks (Regression problems)](#3-Linear-Neural-Networks-(Regression-problems))
 * [4. Deep Neural Networks](#4-Deep-Neural-Networks)
 * [5. Convolutional Neural Networks](#5-Convolutional-Neural-Networks)
-* [6. Recurent Neural Networks](#6-Recurent-Neural-Networks)
+* [6. Recurrent Neural Networks](#6-Recurrent-Neural-Networks)
 * [7. Deep Generative Models](#7-Deep-Generative-Models)
 * [8. Attention](#8-Attention)
 * [9. Computer Vision](#9-Computer-Vision)
