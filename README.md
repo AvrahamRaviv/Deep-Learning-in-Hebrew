@@ -20,9 +20,21 @@
 --------------------------------------
 
 ## 1. Introducion to Machine Learning
+#### 1.1 What is Machine Learning?
 
+- [ ] 1.1.1 The Basic Concept
+
+- [ ] 1.1.2 Data, Tasks and Learning
 
 ## 2. Machine Learning Algorithms
+#### 2.1 Clustering
+
+#### 2.2 Classification
+
+#### 2.3 Dimensionally Reduction
+- [ ] 2.3.1 Principal Components Analysis (PCA)
+
+- [ ] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
 
 
 ## 3. Linear Neural Networks (Regression problems)
