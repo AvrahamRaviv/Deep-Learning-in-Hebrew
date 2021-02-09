@@ -117,7 +117,7 @@
  #### 6.1	Sequence Models	
 - [x] 6.1.1 Recurrent Neural Networks	
 
-- [ ] 6.1.2 Learning Parameters	
+- [x] 6.1.2 Learning Parameters	
 
 #### 6.2 RNN Architectures	
 - [ ] 6.2.1 Gated Recurrent Units (GRU)	
