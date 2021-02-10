@@ -30,9 +30,25 @@
 - [ ] 1.1.2 Data, Tasks and Learning
 
 ## 2. Machine Learning Algorithms
-#### 2.1 Clustering
+#### 2.1 Supervised Learning Algorithms
+- [ ] 2.1.1 Support Vector Machines (SVM)
 
-#### 2.2 Classification
+- [ ] 2.1.2 Naive Bayes
+
+- [ ] 2.1.3 k-nearest neighbor (k-nn)
+
+- [ ] 2.1.4 Linear Discriminant Analysis (LDA)
+
+#### 2.2 Unsupervised Learning Algorithms
+- [ ] 2.2.1 Hierarchical Clustering
+
+- [ ] 2.2.2 K-means
+
+- [ ] 2.2.3 Mixture Models
+
+- [ ] 2.2.4 Local Outlier Factor
+
+- [ ] 2.2.5  Expectation–maximization (EM)
 
 #### 2.3 Dimensionally Reduction
 - [ ] 2.3.1 Principal Components Analysis (PCA)
