@@ -14,6 +14,9 @@
 * [8. Attention](#8-Attention)
 * [9. Computer Vision](#9-Computer-Vision)
 * [10. Natural Language Process](#10-Natural-Language-Process)
+
+* [References](#References)
+* [People](#People)
    
    
 --------------------------------------
@@ -238,8 +241,11 @@
 
 ## References
 [Stanford cs231](https://github.com/mbadry1/CS231n-2017-Summary)
+
 [Machine Learning - Andrew Ng](https://www.holehouse.org/mlclass/)
+
 [Dive into Deep Learning](http://d2l.ai/)
+
 [Deep Learning Book](https://www.deeplearningbook.org/)
 
 ## Peoples
