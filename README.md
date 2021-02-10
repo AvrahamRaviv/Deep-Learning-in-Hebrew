@@ -1,6 +1,7 @@
 # Deep-Learning-in-Hebrew
 למידת מכונה ולמידה עמוקה בעברית
 
+* [Peoples](#Peoples)
 
 ## Table of contents
 
@@ -14,9 +15,8 @@
 * [8. Attention](#8-Attention)
 * [9. Computer Vision](#9-Computer-Vision)
 * [10. Natural Language Process](#10-Natural-Language-Process)
-
 * [References](#References)
-* [People](#People)
+
    
    
 --------------------------------------
