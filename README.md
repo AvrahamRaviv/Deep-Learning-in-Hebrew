@@ -29,6 +29,14 @@
 
 - [ ] 1.1.2 Data, Tasks and Learning
 
+#### 1.2 Applied Math
+
+- [ ] 1.2.1 Linear Algebra
+
+- [ ] 1.2.2 Calculus
+
+- [ ] 1.2.3 Probability
+
 ## 2. Machine Learning Algorithms
 #### 2.1 Supervised Learning Algorithms
 - [ ] 2.1.1 Support Vector Machines (SVM)
