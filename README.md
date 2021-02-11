@@ -190,10 +190,15 @@
 
 - [ ] 7.2.6 Wasserstein GAN
 
+#### 7.3 Auto-Regressive Generative Models
+- [ ] 7.3.1 PixelRNN
 
-#### 7.3 GANs vs VAE
+- [ ] 7.3.2 PixelCNN
 
-#### 7.4 PixelRNN and PixelCNN
+- [ ] 7.3.3 Gated PixelCNN
+
+- [ ] 7.3.4 PixelCnn ++
+
 
 ## 8. Attention	
 - [ ] 8.1 Attention mechanism
