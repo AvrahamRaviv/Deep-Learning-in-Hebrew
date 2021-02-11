@@ -139,13 +139,13 @@
 
 - [x] 5.2.2 VGG	
 
-- [ ] 5.2.3 GoogleNet	
+- [x] 5.2.3 GoogleNet	
 
 - [x] 5.2.4 Residual Networks (ResNet)	
 
-- [ ] 5.2.5 Densely Connected Networks (DenseNet)	
+- [x] 5.2.5 Densely Connected Networks (DenseNet)	
 
-- [ ] 5.2.6 U-Net	
+- [x] 5.2.6 U-Net	
 
 - [x] 5.2.7 Transfer Learning	
 
