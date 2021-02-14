@@ -12,7 +12,7 @@
 * [5. Convolutional Neural Networks](#5-Convolutional-Neural-Networks)
 * [6. Recurrent Neural Networks](#6-Recurrent-Neural-Networks)
 * [7. Deep Generative Models](#7-Deep-Generative-Models)
-* [8. Attention](#8-Attention)
+* [8. Attention Mechanism](#8-Attention-Mechanism)
 * [9. Computer Vision](#9-Computer-Vision)
 * [10. Natural Language Process](#10-Natural-Language-Process)
 * [References](#References)
@@ -200,9 +200,24 @@
 - [ ] 7.3.4 PixelCnn ++
 
 
-## 8. Attention	
-- [ ] 8.1 Attention mechanism
+## 8. Attention Mechanism	
+#### 8.1 Sequence to Sequence Learning and Attention
 
+- [x] 8.1.1 Attention in Seq2Seq Models
+
+- [x] 8.1.2 Bahdanau Attention and Luong Attention
+
+#### 8.2 Transformer
+
+- [x] 8.2.1 Positional Encoding
+
+- [x] 8.2.2 Self-Attention Layer
+
+- [x] 8.2.3 Multi Head Attention 
+
+- [x] 8.2.4 Transformer End to End 
+
+- [ ] 8.2.5 Transformer Applications
 
 
 ## 9. Computer Vision	
