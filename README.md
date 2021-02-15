@@ -217,7 +217,7 @@
 
 - [x] 8.2.4 Transformer End to End 
 
-- [ ] 8.2.5 Transformer Applications
+- [x] 8.2.5 Transformer Applications
 
 
 ## 9. Computer Vision	
