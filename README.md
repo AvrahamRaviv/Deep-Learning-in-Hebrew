@@ -165,7 +165,7 @@
 
 - [x] 6.2.3 Deep RNN	
 
-- [ ] 6.2.4 Bidirectional RNN
+- [x] 6.2.4 Bidirectional RNN
 
 - [ ] 6.2.5 Sequence to Sequence Learning
 
