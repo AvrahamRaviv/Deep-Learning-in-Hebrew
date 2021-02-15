@@ -163,9 +163,11 @@
 
 - [x] 6.2.2 Gated Recurrent Units (GRU)	
 
-- [ ] 6.2.3 Bidirectional RNN	
+- [x] 6.2.3 Deep RNN	
 
-- [ ] 6.2.4 Sequence to Sequence Learning
+- [ ] 6.2.4 Bidirectional RNN
+
+- [ ] 6.2.5 Sequence to Sequence Learning
 
 
 ## 7. Deep Generative Models	
