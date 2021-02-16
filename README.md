@@ -267,17 +267,17 @@
 
 #### 10.2 Sequence Tagging
 
-- [ ] Contextualized Embedding
+<!-- -- [ ] Contextualized Embedding
 - [ ] Dependency Parsing
 - [ ] Fill-in-the-blank
 - [ ] Machine Reading Comprehension
 - [ ] Named Entity Recognition
 - [ ] Part-of-Speech Tagging
-- [ ] Semantic Role Labeling
+- [ ] Semantic Role Labeling -->
 
 #### 10.3 Seq2Seq
 
-- [ ] Constituency Parsing
+<!-- -- [ ] Constituency Parsing
 - [ ] Grammatical Error Correction
 - [ ] Grapheme-to-Phoneme
 - [ ] Phoneme-to-Grapheme
@@ -285,11 +285,11 @@
 - [ ] Paraphrase Generation
 - [ ] Question Generation
 - [ ] Text Summarization
-- [ ] Word Sense Disambiguation
+- [ ] Word Sense Disambiguation -->
 
 #### 10.4 Misc.
 
-- [ ] Automatic Speech Recognition
+<!-- -- [ ] Automatic Speech Recognition
 - [ ] Image Captioning
 - [ ] Collocation
 - [ ] Lemmatization
@@ -297,7 +297,7 @@
 - [ ] Optical Character Recognition
 - [ ] Tokenization
 - [ ] Word Translation
-- [ ] Word Embedding
+- [ ] Word Embedding -->
 
 --------------------------------------
 --------------------------------------
