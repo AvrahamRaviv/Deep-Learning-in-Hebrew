@@ -3,7 +3,7 @@
 
 * [Peoples](#Peoples)
 
-Do star this repository if it helps your work:)
+Add a star if the repository helped you :)
 
 ## Table of contents
 
