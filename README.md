@@ -43,7 +43,7 @@
 
 - [ ] 2.1.2 Naive Bayes
 
-- [ ] 2.1.3 k-nearest neighbor (k-nn)
+- [ ] 2.1.3 K-nearest neighbors (K-NN)
 
 - [ ] 2.1.4 Linear Discriminant Analysis (LDA)
 
@@ -62,6 +62,24 @@
 - [ ] 2.3.1 Principal Components Analysis (PCA)
 
 - [ ] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+
+#### 2.4	Ensemble Learning
+
+- [ ] 2.4.1 Introduction to Ensemble Learning
+ 
+- [ ] 2.4.2 Basic Ensemble Techniques
+
+- [ ] 2.4.3 Stacking and Blending
+ 
+- [ ] 2.4.4 Bagging
+ 
+- [ ] 2.4.5 Boosting
+ 
+- [ ] 2.4.6 Algorithms based on Bagging
+ 
+- [ ] 2.4.7 Algorithms based on Boosting
+
 
 
 ## 3. Linear Neural Networks (Regression problems)
