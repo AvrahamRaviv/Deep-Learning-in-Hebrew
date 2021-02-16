@@ -255,7 +255,7 @@
 ## 10. Natural Language Process	
 #### 10.1 Text Classification
 
-- [ ] Automated Essay Scoring
+<!-- - [ ] Automated Essay Scoring
 - [ ] Age Suitability Prediction
 - [ ] Natural Language Inference
 - [ ] Paraphrase Identification
@@ -263,7 +263,7 @@
 - [ ] Semantic Textual Similarity
 - [ ] Sentence Embedding
 - [ ] Sentiment Analysis
-- [ ] Zero-shot Topic Classification
+- [ ] Zero-shot Topic Classification -->
 
 #### 10.2 Sequence Tagging
 
