@@ -3,6 +3,8 @@
 
 * [Peoples](#Peoples)
 
+Do star this repository if it helps your work:)
+
 ## Table of contents
 
 * [1. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
