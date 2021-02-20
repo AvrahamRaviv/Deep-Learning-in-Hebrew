@@ -53,7 +53,7 @@ Part III:
 
 - [ ] 2.1.2 Naive Bayes
 
-- [ ] 2.1.3 K-nearest neighbors (K-NN)
+- [x] 2.1.3 K-nearest neighbors (K-NN)
 
 - [ ] 2.1.4 Linear Discriminant Analysis (LDA)
 
@@ -220,7 +220,7 @@ Part III:
 - [ ] 7.2.6 Wasserstein GAN
 
 #### 7.3 Auto-Regressive Generative Models
-- [ ] 7.3.1 PixelRNN
+- [x] 7.3.1 PixelRNN
 
 - [ ] 7.3.2 PixelCNN
 
