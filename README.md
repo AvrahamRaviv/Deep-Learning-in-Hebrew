@@ -35,13 +35,13 @@ Part III:
 ## 1. Introducion to Machine Learning
 #### 1.1 What is Machine Learning?
 
-- [ ] 1.1.1 The Basic Concept
+- [x] 1.1.1 The Basic Concept
 
 - [ ] 1.1.2 Data, Tasks and Learning
 
 #### 1.2 Applied Math
 
-- [ ] 1.2.1 Linear Algebra
+- [x] 1.2.1 Linear Algebra
 
 - [ ] 1.2.2 Calculus
 
@@ -72,6 +72,8 @@ Part III:
 - [ ] 2.3.1 Principal Components Analysis (PCA)
 
 - [ ] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+- [ ] 2.3.3 Uniform Manifold Approximation and Projection (UMAP)
 
 
 #### 2.4	Ensemble Learning
@@ -325,7 +327,13 @@ Part III:
 
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
+
+
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
+
+[Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
+
+[Ron Levy](https://www.linkedin.com/in/ronlevy120/)
 
 
 
