@@ -62,11 +62,13 @@ Part III:
 
 - [ ] 2.2.2 K-means
 
-- [ ] 2.2.3 Mixture Models
+- [x] 2.2.3 Mixture Models
 
-- [ ] 2.2.4 Local Outlier Factor
+- [ ] 2.2.4  Expectation–maximization (EM)
 
-- [ ] 2.2.5  Expectation–maximization (EM)
+- [ ] 2.2.5 Local Outlier Factor
+
+
 
 #### 2.3 Dimensionally Reduction
 - [ ] 2.3.1 Principal Components Analysis (PCA)
