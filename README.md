@@ -37,7 +37,7 @@ Part III:
 
 - [x] 1.1.1 The Basic Concept
 
-- [ ] 1.1.2 Data, Tasks and Learning
+- [x] 1.1.2 Data, Tasks and Learning
 
 #### 1.2 Applied Math
 
