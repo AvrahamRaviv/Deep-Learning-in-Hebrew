@@ -64,7 +64,7 @@ Part III:
 
 - [x] 2.2.3 Mixture Models
 
-- [ ] 2.2.4  Expectation–maximization (EM)
+- [x] 2.2.4 Expectation–maximization (EM)
 
 - [ ] 2.2.5 Local Outlier Factor
 
