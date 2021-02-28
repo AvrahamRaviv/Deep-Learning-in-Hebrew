@@ -43,9 +43,9 @@ Part III:
 
 - [x] 1.2.1 Linear Algebra
 
-- [ ] 1.2.2 Calculus
+- [x] 1.2.2 Calculus
 
-- [ ] 1.2.3 Probability
+- [x] 1.2.3 Probability
 
 ## 2. Machine Learning Algorithms
 #### 2.1 Supervised Learning Algorithms
