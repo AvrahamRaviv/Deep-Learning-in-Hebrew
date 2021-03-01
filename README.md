@@ -66,7 +66,7 @@ Part III:
 
 - [x] 2.2.4 Expectation–maximization (EM)
 
-- [ ] 2.2.5 Local Outlier Factor
+- [x] 2.2.5 Local Outlier Factor
 
 
 
@@ -254,15 +254,21 @@ Part III:
 
 
 ## 9. Computer Vision	
-- [ ] 9.1	Classification	
+#### 9.1	Classification	
 
-- [ ] 9.2	Segmentation	
+#### 9.2	Segmentation	
 
-- [ ] 9.3	Object Detection	
+#### 9.3	Object Detection	
 
-- [ ] 9.4	Image Captioning	
+- [ ] 9.3.1 R-CNN
 
-- [ ] 9.5	Pose Estimation and Face Recognition	
+- [ ] 9.3.2 You Only Look Once (YOLO)
+
+- [ ] 9.3.3 DE⫶TR: End-to-End Object Detection with Transformers
+
+#### 9.4	Image Captioning	
+
+#### 9.5	Pose Estimation and Face Recognition	
 
 
 
