@@ -5,7 +5,7 @@
 
 Add a star if the repository helped you :)
 
-[![MDLH.png](https://i.postimg.cc/FF3sPmNh/MDLH.png)](https://postimg.cc/XXNbJRrP)
+[![MDLH.png](https://i.postimg.cc/W1x8HV6w/MDLH.png)](https://postimg.cc/cvMfvVzv)
 
 ## Table of contents
 
@@ -25,6 +25,7 @@ Part II:
 Part III:
 * [9. Computer Vision](#9-Computer-Vision)
 * [10. Natural Language Process](#10-Natural-Language-Process)
+* [11. Reinforcement Learning](#11-Reinforcement-Learning)
 
 
 * [References](#References)
@@ -320,6 +321,9 @@ Part III:
 - [ ] Tokenization
 - [ ] Word Translation
 - [ ] Word Embedding -->
+
+
+## 11. Reinforcement Learning
 
 --------------------------------------
 --------------------------------------
