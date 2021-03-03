@@ -1,11 +1,19 @@
 # Deep-Learning-in-Hebrew
 למידת מכונה ולמידה עמוקה בעברית
 
-* [Peoples](#Peoples)
-
 Add a star if the repository helped you :)
 
 [![MDLH.png](https://i.postimg.cc/W1x8HV6w/MDLH.png)](https://postimg.cc/cvMfvVzv)
+
+## Peoples
+
+[Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
+
+[Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
+
+[Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
+
+[Ron Levy](https://www.linkedin.com/in/ronlevy120/)
 
 ## Table of contents
 
@@ -337,17 +345,7 @@ Part III:
 
 [Deep Learning Book](https://www.deeplearningbook.org/)
 
-## Peoples
 
-[Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
-
-
-
-[Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
-
-[Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
-
-[Ron Levy](https://www.linkedin.com/in/ronlevy120/)
 
 
 
