@@ -61,13 +61,13 @@ Part III:
 - [ ] 2.1.4 Linear Discriminant Analysis (LDA)
 
 #### 2.2 Unsupervised Learning Algorithms
-- [ ] 2.2.1 Hierarchical Clustering
+- [x] 2.2.1 K-means
 
-- [ ] 2.2.2 K-means
+- [x] 2.2.2 Mixture Models
 
-- [x] 2.2.3 Mixture Models
+- [x] 2.2.3 Expectation–maximization (EM)
 
-- [x] 2.2.4 Expectation–maximization (EM)
+- [x] 2.2.4 Hierarchical Clustering
 
 - [x] 2.2.5 Local Outlier Factor
 
