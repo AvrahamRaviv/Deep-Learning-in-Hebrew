@@ -62,7 +62,7 @@ Part III:
 #### 2.1 Supervised Learning Algorithms
 - [ ] 2.1.1 Support Vector Machines (SVM)
 
-- [ ] 2.1.2 Naive Bayes
+- [x] 2.1.2 Naïve Bayes
 
 - [x] 2.1.3 K-nearest neighbors (K-NN)
 
@@ -226,13 +226,17 @@ Part III:
 
 - [X] 7.2.2 DCGAN
 
-- [X] 7.2.3 Pix2Pix
+- [ ] 7.2.3 Conditional GAN (cGAN)
 
-- [X] 7.2.4 CycleGAN
+- [X] 7.2.4 Pix2Pix
 
-- [ ] 7.2.5 StyleGAN
+- [X] 7.2.5 CycleGAN
 
-- [ ] 7.2.6 Wasserstein GAN
+- [ ] 7.2.6 StyleGAN
+
+- [ ] 7.2.7 Wasserstein GAN
+
+- [ ] 7.2.8 Progressively Growing (ProGAN)
 
 #### 7.3 Auto-Regressive Generative Models
 - [x] 7.3.1 PixelRNN
