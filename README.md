@@ -241,9 +241,9 @@ Part III:
 #### 7.3 Auto-Regressive Generative Models
 - [x] 7.3.1 PixelRNN
 
-- [ ] 7.3.2 PixelCNN
+- [x] 7.3.2 PixelCNN
 
-- [ ] 7.3.3 Gated PixelCNN
+- [x] 7.3.3 Gated PixelCNN
 
 - [ ] 7.3.4 PixelCnn ++
 
@@ -288,51 +288,64 @@ Part III:
 
 
 ## 10. Natural Language Process	
-#### 10.1 Text Classification
+#### 10.1 Language Model
+- [ ]	10.1.1 N-gram
 
-<!-- - [ ] Automated Essay Scoring
-- [ ] Age Suitability Prediction
-- [ ] Natural Language Inference
-- [ ] Paraphrase Identification
-- [ ] Review Scoring
-- [ ] Semantic Textual Similarity
-- [ ] Sentence Embedding
-- [ ] Sentiment Analysis
-- [ ] Zero-shot Topic Classification -->
+- [ ]	10.1.2 Word Representation (Vectors)
 
-#### 10.2 Sequence Tagging
+- [ ]	10.1.3 Word2Vec/GloVe
 
-<!-- -- [ ] Contextualized Embedding
-- [ ] Dependency Parsing
-- [ ] Fill-in-the-blank
-- [ ] Machine Reading Comprehension
-- [ ] Named Entity Recognition
-- [ ] Part-of-Speech Tagging
-- [ ] Semantic Role Labeling -->
+- [ ]	10.1.4 ELMo - Embeddings from Language Model
 
-#### 10.3 Seq2Seq
+- [ ]	10.1.5 Attention/Transformer (GPT)
 
-<!-- -- [ ] Constituency Parsing
-- [ ] Grammatical Error Correction
-- [ ] Grapheme-to-Phoneme
-- [ ] Phoneme-to-Grapheme
-- [ ] Machine Translation
-- [ ] Paraphrase Generation
-- [ ] Question Generation
-- [ ] Text Summarization
-- [ ] Word Sense Disambiguation -->
+#### 10.2 Neural Machine Translation
+- [ ] 10.2.1 Neural Machine Translation by Jointly Learning to Align and Translate
+ 
+- [ ] 10.2.2 Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+ 
+- [ ] 10.2.3 ConvS2S
 
-#### 10.4 Misc.
+- [ ] 10.2.4 RNMT+
+ 
+- [ ] 10.2.5 Transformer and Transformer based models
 
-<!-- -- [ ] Automatic Speech Recognition
-- [ ] Image Captioning
-- [ ] Collocation
-- [ ] Lemmatization
-- [ ] Morphological Inflection
-- [ ] Optical Character Recognition
-- [ ] Tokenization
-- [ ] Word Translation
-- [ ] Word Embedding -->
+- [ ] 10.2.6 Named Entity Recognition (NER)
+
+- [ ] 10.2.7 Bilingual Evaluation Understudy (BLEU score)
+
+#### 10.3 Speech Recognition
+
+- [ ]	10.3.1 Connectionist Temporal Classification
+
+- [ ]	10.3.2 Listen, Attend, and Spell
+
+- [ ]	10.3.3 Very Deep Convolutional Networks for End-to-End Speech Recognition
+
+#### 10.4 Document Summarization
+
+Extractive Text Summarization:
+- [ ]	10.4.1 TextRank
+
+- [ ]	10.4.2 LexRank
+
+- [ ]	10.4.3 Luhn
+
+- [ ]	10.4.4 Latent Semantic Analysis, LSA
+
+- [ ]	10.4.5 KL-Sum
+
+Abstractive Text Summarization:
+
+- [ ]	10.4.6 T5 Transformers
+
+- [ ]	10.4.7 BART Transformers
+
+- [ ]	10.4.8 GPT-2 Transformers
+
+- [ ]	10.4.9 XLM Transformers
+
+
 
 
 ## 11. Reinforcement Learning
