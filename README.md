@@ -271,20 +271,42 @@ Part III:
 ## 9. Computer Vision	
 #### 9.1	Classification	
 
-#### 9.2	Segmentation	
+#### 9.2 Object Detection
 
-#### 9.3	Object Detection	
+- [ ]	9.2.1 R-CNN
 
-- [ ] 9.3.1 R-CNN
+- [ ]	9.2.2 You Only Look Once (YOLO)
 
-- [ ] 9.3.2 You Only Look Once (YOLO)
+- [ ]	9.2.3 Single Shot Detector (SSD)
 
-- [ ] 9.3.3 DE⫶TR: End-to-End Object Detection with Transformers
+- [ ]	9.2.4 Spatial Pyramid Pooling (SPP-net)
 
+- [ ]	9.2.5 Feature Pyramid Networks
+
+- [ ]	9.2.6 Deformable Convolutional Networks
+
+- [ ]	9.2.7 DE⫶TR: Object Detection with Transformers
+
+#### 9.3	Segmentation
+
+- [ ]	9.3.1 Semantic Segmentation vs. Instance Segmentation
+
+- [ ]	9.3.2 SegNet neural network
+
+- [ ]	9.3.3 Atrous convolutions
+
+- [ ]	9.3.4 Atrous Spatial Pyramidal Pooling
+
+- [ ]	9.3.5 Conditional Random Fields usage for improving final output 
+
+- [ ]	9.3.6 See More Than Once -- Kernel-Sharing Atrous Convolution
+
+<!--
 #### 9.4	Image Captioning	
-
-#### 9.5	Pose Estimation and Face Recognition	
-
+-->
+<!--
+#### 9.5	Pose Estimation and Face Recognition
+-->
 
 
 ## 10. Natural Language Process	
@@ -313,6 +335,8 @@ Part III:
 - [ ] 10.2.6 Named Entity Recognition (NER)
 
 - [ ] 10.2.7 Bilingual Evaluation Understudy (BLEU score)
+
+- [ ] 10.2.8 Unsupervised Machine Translation
 
 #### 10.3 Speech Recognition
 
