@@ -245,7 +245,7 @@ Part III:
 
 - [x] 7.3.3 Gated PixelCNN
 
-- [ ] 7.3.4 PixelCnn ++
+- [x] 7.3.4 PixelCNN++
 
 
 ## 8. Attention Mechanism	
