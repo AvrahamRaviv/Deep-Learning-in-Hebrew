@@ -5,7 +5,9 @@ Add a star if the repository helped you :)
 
 [![MDLH.png](https://i.postimg.cc/W1x8HV6w/MDLH.png)](https://postimg.cc/cvMfvVzv)
 
-## Peoples
+For any issue please contact us at Avrahamsapir1@gmail.com.
+
+## People
 
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
