@@ -68,7 +68,7 @@ Part III:
 
 - [x] 2.1.3 K-nearest neighbors (K-NN)
 
-- [ ] 2.1.4 Linear Discriminant Analysis (LDA)
+- [x] 2.1.4 Qadratic\Linear Discriminant Analysis (QDA\LDA)
 
 #### 2.2 Unsupervised Learning Algorithms
 - [x] 2.2.1 K-means
@@ -234,11 +234,13 @@ Part III:
 
 - [X] 7.2.5 CycleGAN
 
-- [ ] 7.2.6 StyleGAN
+- [ ] 7.2.6 Progressively Growing (ProGAN)
 
-- [ ] 7.2.7 Wasserstein GAN
+- [ ] 7.2.7 StyleGAN
 
-- [ ] 7.2.8 Progressively Growing (ProGAN)
+- [ ] 7.2.8 Wasserstein GAN
+
+
 
 #### 7.3 Auto-Regressive Generative Models
 - [x] 7.3.1 PixelRNN
