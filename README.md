@@ -228,7 +228,7 @@ Part III:
 
 - [X] 7.2.2 DCGAN
 
-- [ ] 7.2.3 Conditional GAN (cGAN)
+- [x] 7.2.3 Conditional GAN (cGAN)
 
 - [X] 7.2.4 Pix2Pix
 
@@ -377,6 +377,18 @@ Abstractive Text Summarization:
 
 
 ## 11. Reinforcement Learning
+#### 11.1 Introduction to RL
+- [x]	11.1.1 Markov Decision Process (MDP) and RL
+
+- [x]	11.1.2 Planning
+
+- [x]	11.1.3 Learning Algorithms
+
+#### 11.2 Planning
+
+#### 11.3 Model-free learning
+
+#### 11.4 Model-based learning
 
 --------------------------------------
 --------------------------------------
