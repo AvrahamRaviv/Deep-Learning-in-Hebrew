@@ -70,6 +70,8 @@ Part III:
 
 - [x] 2.1.4 Qadratic\Linear Discriminant Analysis (QDA\LDA)
 
+- [ ] 2.1.5 Decision Trees
+
 #### 2.2 Unsupervised Learning Algorithms
 - [x] 2.2.1 K-means
 
@@ -84,9 +86,9 @@ Part III:
 
 
 #### 2.3 Dimensionally Reduction
-- [ ] 2.3.1 Principal Components Analysis (PCA)
+- [x] 2.3.1 Principal Components Analysis (PCA)
 
-- [ ] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
+- [x] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
 
 - [ ] 2.3.3 Uniform Manifold Approximation and Projection (UMAP)
 
@@ -305,6 +307,12 @@ Part III:
 
 - [ ]	9.3.6 See More Than Once -- Kernel-Sharing Atrous Convolution
 
+#### 9.4	Face Recognition and Pose Estimation
+
+- [x]	9.4.1 Face Recognition 
+
+- [ ]	9.4.2 Pose Estimation
+
 <!--
 #### 9.4	Image Captioning	
 -->
@@ -384,11 +392,17 @@ Abstractive Text Summarization:
 
 - [x]	11.1.3 Learning Algorithms
 
-#### 11.2 Planning
+#### 11.2 Exploration and Exploitation
 
-#### 11.3 Model-free learning
+#### 11.3 Planning by Dynamic Programming
 
-#### 11.4 Model-based learning
+#### 11.4 Policy Gradient Methods
+
+#### 11.5 Monte-Carlo
+
+#### 11.6 Temporal-Difference Learning
+
+#### 11.7 Model-based algorithms
 
 --------------------------------------
 --------------------------------------
