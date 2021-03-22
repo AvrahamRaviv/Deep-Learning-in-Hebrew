@@ -11,6 +11,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
+[Jeremy Rutman](https://he.rutmanip.com/)
+
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
@@ -275,43 +277,41 @@ Part III:
 
 
 ## 9. Computer Vision	
-#### 9.1	Classification	
+#### 9.1 Object Detection
 
-#### 9.2 Object Detection
+- [ ]	9.1.1 R-CNN
 
-- [ ]	9.2.1 R-CNN
+- [ ]	9.1.2 You Only Look Once (YOLO)
 
-- [ ]	9.2.2 You Only Look Once (YOLO)
+- [ ]	9.1.3 Single Shot Detector (SSD)
 
-- [ ]	9.2.3 Single Shot Detector (SSD)
+- [ ]	9.1.4 Spatial Pyramid Pooling (SPP-net)
 
-- [ ]	9.2.4 Spatial Pyramid Pooling (SPP-net)
+- [ ]	9.1.5 Feature Pyramid Networks
 
-- [ ]	9.2.5 Feature Pyramid Networks
+- [ ]	9.1.6 Deformable Convolutional Networks
 
-- [ ]	9.2.6 Deformable Convolutional Networks
+- [ ]	9.1.7 DE⫶TR: Object Detection with Transformers
 
-- [ ]	9.2.7 DE⫶TR: Object Detection with Transformers
+#### 9.2	Segmentation
 
-#### 9.3	Segmentation
+- [ ]	9.2.1 Semantic Segmentation vs. Instance Segmentation
 
-- [ ]	9.3.1 Semantic Segmentation vs. Instance Segmentation
+- [ ]	9.2.2 SegNet neural network
 
-- [ ]	9.3.2 SegNet neural network
+- [ ]	9.2.3 Atrous convolutions
 
-- [ ]	9.3.3 Atrous convolutions
+- [ ]	9.2.4 Atrous Spatial Pyramidal Pooling
 
-- [ ]	9.3.4 Atrous Spatial Pyramidal Pooling
+- [ ]	9.2.5 Conditional Random Fields usage for improving final output 
 
-- [ ]	9.3.5 Conditional Random Fields usage for improving final output 
+- [ ]	9.2.6 See More Than Once -- Kernel-Sharing Atrous Convolution
 
-- [ ]	9.3.6 See More Than Once -- Kernel-Sharing Atrous Convolution
+#### 9.3 Face Recognition and Pose Estimation
 
-#### 9.4	Face Recognition and Pose Estimation
+- [x]	9.3.1 Face Recognition 
 
-- [x]	9.4.1 Face Recognition 
-
-- [ ]	9.4.2 Pose Estimation
+- [ ]	9.3.2 Pose Estimation
 
 <!--
 #### 9.4	Image Captioning	
