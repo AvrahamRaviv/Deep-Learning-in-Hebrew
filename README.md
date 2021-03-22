@@ -17,6 +17,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
+[Or Shemesh](https://www.linkedin.com/in/or-shemesh-a3b0b117b/)
+
 [Ron Levy](https://www.linkedin.com/in/ronlevy120/)
 
 ## Table of contents
@@ -64,7 +66,7 @@ Part III:
 
 ## 2. Machine Learning Algorithms
 #### 2.1 Supervised Learning Algorithms
-- [ ] 2.1.1 Support Vector Machines (SVM)
+- [x] 2.1.1 Support Vector Machines (SVM)
 
 - [x] 2.1.2 Naïve Bayes
 
