@@ -11,9 +11,9 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
-[Jeremy Rutman](https://he.rutmanip.com/)
-
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
+
+[Jeremy Rutman](https://he.rutmanip.com/)
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
