@@ -99,20 +99,13 @@ Part III:
 
 #### 2.4	Ensemble Learning
 
-- [ ] 2.4.1 Introduction to Ensemble Learning
- 
-- [ ] 2.4.2 Basic Ensemble Techniques
+- [ ] 2.4.1 Introduction to Ensemble Learning and Basic Ensemble Techniques
 
-- [ ] 2.4.3 Stacking and Blending
+- [ ] 2.4.2 Stacking and Blending
  
-- [ ] 2.4.4 Bagging
+- [ ] 2.4.3 Bagging
  
-- [ ] 2.4.5 Boosting
- 
-- [ ] 2.4.6 Algorithms based on Bagging
- 
-- [ ] 2.4.7 Algorithms based on Boosting
-
+- [ ] 2.4.4 Boosting
 
 
 ## 3. Linear Neural Networks (Regression problems)
