@@ -3,7 +3,7 @@
 
 Add a star if the repository helped you :)
 
-[![MDLH.png](https://i.postimg.cc/W1x8HV6w/MDLH.png)](https://postimg.cc/cvMfvVzv)
+![MDLH](https://user-images.githubusercontent.com/56107590/113211481-2d641380-927e-11eb-9e85-8faef47de082.png)
 
 For any issue please contact us at Avrahamsapir1@gmail.com.
 
