@@ -233,11 +233,11 @@ Part III:
 
 - [X] 7.2.5 CycleGAN
 
-- [ ] 7.2.6 Progressively Growing (ProGAN)
+- [x] 7.2.6 Progressively Growing (ProGAN)
 
-- [ ] 7.2.7 StyleGAN
+- [x] 7.2.7 StyleGAN
 
-- [ ] 7.2.8 Wasserstein GAN
+- [x] 7.2.8 Wasserstein GAN
 
 
 
