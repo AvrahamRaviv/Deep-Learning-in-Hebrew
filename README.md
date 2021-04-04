@@ -17,6 +17,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
+[Or Avrahami](https://www.linkedin.com/in/or-a-391692199/)
+
 [Or Shemesh](https://www.linkedin.com/in/or-shemesh-a3b0b117b/)
 
 [Ron Levy](https://www.linkedin.com/in/ronlevy120/)
@@ -284,11 +286,11 @@ Part III:
 
 - [ ]	9.1.6 Deformable Convolutional Networks
 
-- [ ]	9.1.7 DE⫶TR: Object Detection with Transformers
+- [ ]	9.1.7 DE:TR: Object Detection with Transformers
 
 #### 9.2	Segmentation
 
-- [ ]	9.2.1 Semantic Segmentation vs. Instance Segmentation
+- [x]	9.2.1 Semantic Segmentation vs. Instance Segmentation
 
 - [ ]	9.2.2 SegNet neural network
 
