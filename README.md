@@ -13,7 +13,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
-[Avi Caciularu] (https://aviclu.github.io/)
+[Avi Caciularu](https://aviclu.github.io/)
 
 [Jeremy Rutman](https://he.rutmanip.com/)
 
