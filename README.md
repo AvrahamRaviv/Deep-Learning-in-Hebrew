@@ -15,6 +15,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avi Caciularu](https://aviclu.github.io/)
 
+[Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
+
 [Jeremy Rutman](https://he.rutmanip.com/)
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
