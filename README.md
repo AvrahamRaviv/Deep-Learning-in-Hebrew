@@ -19,6 +19,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Jeremy Rutman](https://he.rutmanip.com/)
 
+[Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
+
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
 [Or Avrahami](https://www.linkedin.com/in/or-a-391692199/)
@@ -26,6 +28,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 [Or Shemesh](https://www.linkedin.com/in/or-shemesh-a3b0b117b/)
 
 [Ron Levy](https://www.linkedin.com/in/ronlevy120/)
+
+[Uri Almog](https://www.linkedin.com/in/urialmog/)
 
 ## Table of contents
 
@@ -280,7 +284,7 @@ Part III:
 
 - [ ]	9.1.1 R-CNN
 
-- [ ]	9.1.2 You Only Look Once (YOLO)
+- [x]	9.1.2 You Only Look Once (YOLO)
 
 - [ ]	9.1.3 Single Shot Detector (SSD)
 
@@ -310,7 +314,7 @@ Part III:
 
 - [x]	9.3.1 Face Recognition 
 
-- [ ]	9.3.2 Pose Estimation
+- [x]	9.3.2 Pose Estimation
 
 <!--
 #### 9.4	Image Captioning	
