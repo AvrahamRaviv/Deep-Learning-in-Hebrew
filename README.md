@@ -17,6 +17,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
+[Daviv Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
+
 [Jeremy Rutman](https://he.rutmanip.com/)
 
 [Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
@@ -84,7 +86,7 @@ Part III:
 
 - [x] 2.1.4 Qadratic\Linear Discriminant Analysis (QDA\LDA)
 
-- [ ] 2.1.5 Decision Trees
+- [x] 2.1.5 Decision Trees
 
 #### 2.2 Unsupervised Learning Algorithms
 - [x] 2.2.1 K-means
@@ -300,7 +302,7 @@ Part III:
 
 - [x]	9.2.1 Semantic Segmentation vs. Instance Segmentation
 
-- [ ]	9.2.2 SegNet neural network
+- [x]	9.2.2 SegNet neural network
 
 - [ ]	9.2.3 Atrous convolutions
 
@@ -319,9 +321,17 @@ Part III:
 <!--
 #### 9.4	Image Captioning	
 -->
-<!--
-#### 9.5	Pose Estimation and Face Recognition
--->
+
+#### 9.5	Few-Shot Learning
+- [x]	9.5.1 The Problem
+
+- [x]	9.5.2 Metric Learning
+
+- [x]	9.5.3 Meta-Learning (Learning-to-Learn)
+
+- [x]	9.5.4 Data Augmentation
+
+- [ ] 9.5.5 Zero-Shot Learning
 
 
 ## 10. Natural Language Process	
