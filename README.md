@@ -17,7 +17,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
-[Daviv Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
+[David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
 [Jeremy Rutman](https://he.rutmanip.com/)
 
