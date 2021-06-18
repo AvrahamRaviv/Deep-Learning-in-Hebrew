@@ -13,9 +13,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
-[Avi Caciularu](https://aviclu.github.io/)
-
-[Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
+Chapter authors:
 
 [David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
@@ -32,6 +30,12 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 [Ron Levy](https://www.linkedin.com/in/ronlevy120/)
 
 [Uri Almog](https://www.linkedin.com/in/urialmog/)
+
+contributors:
+
+[Avi Caciularu](https://aviclu.github.io/)
+
+[Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
 ## Table of contents
 
