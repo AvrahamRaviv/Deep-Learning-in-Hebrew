@@ -9,11 +9,13 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 ## People
 
+**Authors:**
+
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
-Chapter authors:
+**Chapter authors:**
 
 [David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
@@ -31,7 +33,7 @@ Chapter authors:
 
 [Uri Almog](https://www.linkedin.com/in/urialmog/)
 
-contributors:
+**contributors:**
 
 [Avi Caciularu](https://aviclu.github.io/)
 
