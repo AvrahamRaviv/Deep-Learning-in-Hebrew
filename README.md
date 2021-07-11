@@ -296,7 +296,7 @@ Part III:
 
 - [ ]	9.1.3 Single Shot Detector (SSD)
 
-- [ ]	9.1.4 Spatial Pyramid Pooling (SPP-net)
+- [x]	9.1.4 Spatial Pyramid Pooling (SPP-net)
 
 - [ ]	9.1.5 Feature Pyramid Networks
 
@@ -310,7 +310,7 @@ Part III:
 
 - [x]	9.2.2 SegNet neural network
 
-- [ ]	9.2.3 Atrous convolutions
+- [x]	9.2.3 Atrous convolutions
 
 - [ ]	9.2.4 Atrous Spatial Pyramidal Pooling
 
