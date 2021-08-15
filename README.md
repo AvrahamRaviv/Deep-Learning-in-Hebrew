@@ -9,15 +9,19 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 ## People
 
+**Authors:**
+
 [Avraham Raviv](https://www.linkedin.com/in/avraham-raviv-47b3b5158/)
 
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
-[Avi Caciularu](https://aviclu.github.io/)
+**Chapter authors:**
 
-[Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
+[David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
 [Jeremy Rutman](https://he.rutmanip.com/)
+
+[Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
 
 [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
@@ -26,6 +30,14 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 [Or Shemesh](https://www.linkedin.com/in/or-shemesh-a3b0b117b/)
 
 [Ron Levy](https://www.linkedin.com/in/ronlevy120/)
+
+[Uri Almog](https://www.linkedin.com/in/urialmog/)
+
+**contributors:**
+
+[Avi Caciularu](https://aviclu.github.io/)
+
+[Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
 ## Table of contents
 
@@ -80,7 +92,7 @@ Part III:
 
 - [x] 2.1.4 Qadratic\Linear Discriminant Analysis (QDA\LDA)
 
-- [ ] 2.1.5 Decision Trees
+- [x] 2.1.5 Decision Trees
 
 #### 2.2 Unsupervised Learning Algorithms
 - [x] 2.2.1 K-means
@@ -280,11 +292,11 @@ Part III:
 
 - [ ]	9.1.1 R-CNN
 
-- [ ]	9.1.2 You Only Look Once (YOLO)
+- [x]	9.1.2 You Only Look Once (YOLO)
 
 - [ ]	9.1.3 Single Shot Detector (SSD)
 
-- [ ]	9.1.4 Spatial Pyramid Pooling (SPP-net)
+- [x]	9.1.4 Spatial Pyramid Pooling (SPP-net)
 
 - [ ]	9.1.5 Feature Pyramid Networks
 
@@ -296,9 +308,9 @@ Part III:
 
 - [x]	9.2.1 Semantic Segmentation vs. Instance Segmentation
 
-- [ ]	9.2.2 SegNet neural network
+- [x]	9.2.2 SegNet neural network
 
-- [ ]	9.2.3 Atrous convolutions
+- [x]	9.2.3 Atrous convolutions
 
 - [ ]	9.2.4 Atrous Spatial Pyramidal Pooling
 
@@ -310,14 +322,22 @@ Part III:
 
 - [x]	9.3.1 Face Recognition 
 
-- [ ]	9.3.2 Pose Estimation
+- [x]	9.3.2 Pose Estimation
 
 <!--
 #### 9.4	Image Captioning	
 -->
-<!--
-#### 9.5	Pose Estimation and Face Recognition
--->
+
+#### 9.5	Few-Shot Learning
+- [x]	9.5.1 The Problem
+
+- [x]	9.5.2 Metric Learning
+
+- [x]	9.5.3 Meta-Learning (Learning-to-Learn)
+
+- [x]	9.5.4 Data Augmentation
+
+- [ ] 9.5.5 Zero-Shot Learning
 
 
 ## 10. Natural Language Process	
