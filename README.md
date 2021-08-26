@@ -7,6 +7,7 @@ Add a star if the repository helped you :)
 
 For any issue please contact us at Avrahamsapir1@gmail.com.
 
+
 ## People
 
 **Authors:**
@@ -38,6 +39,16 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 [Avi Caciularu](https://aviclu.github.io/)
 
 [Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
+
+
+## Citation
+If you find the results of [Robust-FEC-CNN](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/He_Robust_FEC-CNN_A_CVPR_2017_paper.pdf) useful in your research work, please consider citing:
+
+    @InProceedings{MDLH,
+    author = {Raviv, Avraham and Erlihson, Mike},
+    booktitle = {Machine and Deep learning in Hebrew},
+    year = {2021}
+    }
 
 ## Table of contents
 
