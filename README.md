@@ -42,7 +42,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 
 ## Citation
-If you find the results of [Robust-FEC-CNN](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/He_Robust_FEC-CNN_A_CVPR_2017_paper.pdf) useful in your research work, please consider citing:
+If you find this booj useful in your research work, please consider citing:
 
     @InProceedings{MDLH,
     author = {Raviv, Avraham and Erlihson, Mike},
