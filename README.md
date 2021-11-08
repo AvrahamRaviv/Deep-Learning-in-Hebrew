@@ -20,6 +20,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
+[Gal Peretz](https://www.linkedin.com/in/gal-peretz-564364a3/)
+
 [Jeremy Rutman](https://he.rutmanip.com/)
 
 [Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
