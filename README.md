@@ -42,6 +42,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
+[Rachel Wities](https://www.linkedin.com/in/rachel-wities-b3b80411/)
+
 
 ## Citation
 If you find this book useful in your research work, please consider citing:
