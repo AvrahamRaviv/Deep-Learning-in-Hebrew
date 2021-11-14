@@ -352,74 +352,19 @@ Part III:
 
 - [x]	9.5.4 Data Augmentation
 
-- [ ] 9.5.5 Zero-Shot Learning
+- [ ]   9.5.5 Zero-Shot Learning
 
 
 ## 10. Natural Language Process	
-#### 10.1 Language Model
-- [ ]	10.1.1 N-gram
+#### 10.1 Language Models and Word Representation
+- [x]	10.1.1 Basic Language Models
 
-- [ ]	10.1.2 Word Representation (Vectors)
+- [x]	10.1.2 Word representation (Vectors) and Word Embeddings
 
-- [ ]	10.1.3 Word2Vec/GloVe
-
-- [ ]	10.1.4 ELMo - Embeddings from Language Model
-
-- [ ]	10.1.5 Attention/Transformer (GPT)
-
-<!--
-#### 10.2 Neural Machine Translation
-- [ ] 10.2.1 Neural Machine Translation by Jointly Learning to Align and Translate
- 
-- [ ] 10.2.2 Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
- 
-- [ ] 10.2.3 ConvS2S
-
-- [ ] 10.2.4 RNMT+
- 
-- [ ] 10.2.5 Transformer and Transformer based models
-
-- [ ] 10.2.6 Named Entity Recognition (NER)
-
-- [ ] 10.2.7 Bilingual Evaluation Understudy (BLEU score)
-
-- [ ] 10.2.8 Unsupervised Machine Translation
-
-#### 10.3 Speech Recognition
-
-- [ ]	10.3.1 Connectionist Temporal Classification
-
-- [ ]	10.3.2 Listen, Attend, and Spell
-
-- [ ]	10.3.3 Very Deep Convolutional Networks for End-to-End Speech Recognition
-
-#### 10.4 Document Summarization
-
-Extractive Text Summarization:
-- [ ]	10.4.1 TextRank
-
-- [ ]	10.4.2 LexRank
-
-- [ ]	10.4.3 Luhn
-
-- [ ]	10.4.4 Latent Semantic Analysis, LSA
-
-- [ ]	10.4.5 KL-Sum
-
-Abstractive Text Summarization:
-
-- [ ]	10.4.6 T5 Transformers
-
-- [ ]	10.4.7 BART Transformers
-
-- [ ]	10.4.8 GPT-2 Transformers
-
-- [ ]	10.4.9 XLM Transformers
-
---!>
-
+- [x]   10.1.3 COntextual Embeddings
 
 ## 11. Reinforcement Learning
+
 #### 11.1 Introduction to RL
 - [x]	11.1.1 Markov Decision Process (MDP) and RL
 
