@@ -367,6 +367,7 @@ Part III:
 
 - [ ]	10.1.5 Attention/Transformer (GPT)
 
+<!--
 #### 10.2 Neural Machine Translation
 - [ ] 10.2.1 Neural Machine Translation by Jointly Learning to Align and Translate
  
@@ -415,7 +416,7 @@ Abstractive Text Summarization:
 
 - [ ]	10.4.9 XLM Transformers
 
-
+--!>
 
 
 ## 11. Reinforcement Learning
@@ -426,17 +427,16 @@ Abstractive Text Summarization:
 
 - [x]	11.1.3 Learning Algorithms
 
-#### 11.2 Exploration and Exploitation
+#### 11.2 Model Free Prediction
 
-#### 11.3 Planning by Dynamic Programming
+- [x]	11.2.1 Monte-Carlo (MC) Policy Evaluation
 
-#### 11.4 Policy Gradient Methods
+- [x]	11.2.2 Temporal Difference (TD) – Bootstrapping
 
-#### 11.5 Monte-Carlo
+- [x]	11.2.3 TD($\lambda$)
 
-#### 11.6 Temporal-Difference Learning
+#### 11.3 Model Free Control
 
-#### 11.7 Model-based algorithms
 
 --------------------------------------
 --------------------------------------
