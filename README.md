@@ -378,7 +378,7 @@ Part III:
 
 - [x]	11.2.2 Temporal Difference (TD) – Bootstrapping
 
-- [x]	11.2.3 TD($\lambda$)
+- [x]	11.2.3 TD(λ)
 
 #### 11.3 Model Free Control
 
