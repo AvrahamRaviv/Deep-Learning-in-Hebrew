@@ -127,7 +127,7 @@ Part III:
 
 - [x] 2.3.2 t-distributed Stochastic Neighbor Embedding (t-SNE)
 
-- [ ] 2.3.3 Uniform Manifold Approximation and Projection (UMAP)
+- [x] 2.3.3 Uniform Manifold Approximation and Projection (UMAP)
 
 
 #### 2.4	Ensemble Learning
