@@ -382,7 +382,17 @@ Part III:
 
 #### 11.3 Model Free Control
 
+- [x]	11.3.1 SARSA - on-policy TD control
 
+- [x]	11.3.2 Q-Learning
+
+- [x]	11.3.3 Function Approximation
+
+- [x]	11.3.4 Policy-Based RL
+
+- [x]	11.3.5 Actor-Critic
+
+#### 11.4 Model Based Control
 --------------------------------------
 --------------------------------------
 
