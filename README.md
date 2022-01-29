@@ -395,6 +395,27 @@ Part III:
 - [x]	11.3.5 Actor-Critic
 
 #### 11.4 Model Based Control
+
+- [x]	11.4.1 Known Model – Dyna algorithm
+
+- [x]	11.4.2 Known Model – Tree Search
+
+- [ ]	11.4.3 11.4.3 Planning for Continuous Action Space
+
+#### 11.5 Exploration and Exploitation
+
+- [ ]	11.5.1 N-armed bandits
+
+- [ ]	11.5.2 Full MDP
+
+#### 11.6 Learning From An Expert 
+
+- [ ]	11.6.1 Imitation Learning
+
+- [ ]	11.6.2 Inverse RL
+
+#### 11.7 Partially Observed Markov Decision Process (POMDP) 
+
 --------------------------------------
 --------------------------------------
 
