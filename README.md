@@ -22,6 +22,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Gal Peretz](https://www.linkedin.com/in/gal-peretz-564364a3/)
 
+[Hadar Sharvit](https://github.com/Hadar933)
+
 [Jeremy Rutman](https://he.rutmanip.com/)
 
 [Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
@@ -177,7 +179,9 @@ Part III:
 #### 4.2	Computational Graphs and propagation	
 - [x] 4.2.1 Computational Graphs	
 
-- [x] 4.2.2 Forward and Backward propagation	
+- [x] 4.2.2 Forward and Backward propagation
+
+- [x] 4.2.3 Back Propagation and Stochastic Gradient Descent
 #### 4.3	Optimization	
 - [x] 4.3.1 Data Normalization	
 
@@ -307,19 +311,21 @@ Part III:
 ## 9. Computer Vision	
 #### 9.1 Object Detection
 
-- [ ]	9.1.1 R-CNN
+- [x]	9.1.1 Introduction to Object Detection
 
-- [x]	9.1.2 You Only Look Once (YOLO)
+- [ ]	9.1.2 R-CNN
 
-- [ ]	9.1.3 Single Shot Detector (SSD)
+- [x]	9.1.3 You Only Look Once (YOLO)
 
-- [x]	9.1.4 Spatial Pyramid Pooling (SPP-net)
+- [ ]	9.1.4 Single Shot Detector (SSD)
 
-- [ ]	9.1.5 Feature Pyramid Networks
+- [x]	9.1.5 Spatial Pyramid Pooling (SPP-net)
 
-- [ ]	9.1.6 Deformable Convolutional Networks
+- [ ]	9.1.6 Feature Pyramid Networks
 
-- [ ]	9.1.7 DE:TR: Object Detection with Transformers
+- [ ]	9.1.7 Deformable Convolutional Networks
+
+- [ ]	9.1.8 DE:TR: Object Detection with Transformers
 
 #### 9.2	Segmentation
 
