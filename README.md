@@ -1,7 +1,7 @@
 # Deep-Learning-in-Hebrew
-למידת מכונה ולמידה עמוקה בעברית
+# למידת מכונה ולמידה עמוקה בעברית
 
-Add a star if the repository helped you :)
+Add a star if the repository helped you 😊
 
 ![MDLH](https://user-images.githubusercontent.com/56107590/113211481-2d641380-927e-11eb-9e85-8faef47de082.png)
 
@@ -16,7 +16,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Mike Erlihson](https://www.linkedin.com/in/michael-mike-erlihson-8208616/)
 
-**Chapter authors:**
+**Chapter Authors:**
 
 [David Ben Attar](https://www.linkedin.com/in/david-ben-attar-a8775775/)
 
@@ -38,7 +38,7 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 [Uri Almog](https://www.linkedin.com/in/urialmog/)
 
-**contributors:**
+**Contributors:**
 
 [Avi Caciularu](https://aviclu.github.io/)
 
@@ -61,7 +61,6 @@ If you find this book useful in your research work, please consider citing:
 ## Table of contents
 
 Part I:
-
 * [1. Introducion to Machine Learning](#1-Introducion-to-Machine-Learning)
 * [2. Machine Learning Algorithms](#2-Machine-Learning-Algorithms)
 
@@ -109,7 +108,7 @@ Part III:
 
 - [x] 2.1.3 K-nearest neighbors (K-NN)
 
-- [x] 2.1.4 Qadratic\Linear Discriminant Analysis (QDA\LDA)
+- [x] 2.1.4 Quadratic\Linear Discriminant Analysis (QDA\LDA)
 
 - [x] 2.1.5 Decision Trees
 
@@ -157,11 +156,11 @@ Part III:
 #### 3.2	Softmax Regression	
 - [x] 3.2.1 Logistic Regression	
 
-- [x] 3.2.2 Cross Entropy and Gradient descent	
+- [x] 3.2.2 Cross Entropy and Gradient Descent	
 
 - [x] 3.2.3 Optimization	
 
-- [x] 3.2.4 SoftMax Regression – Multi Class Logistic Regression	
+- [x] 3.2.4 SoftMax Regression – Multiclass Logistic Regression	
 
 - [x] 3.2.5 SoftMax Regression as Neural Network	
 
@@ -329,11 +328,11 @@ Part III:
 
 #### 9.2	Segmentation
 
-- [x]	9.2.1 Semantic Segmentation vs. Instance Segmentation
+- [x]	9.2.1 Semantic Segmentation Vs. Instance Segmentation
 
 - [x]	9.2.2 SegNet neural network
 
-- [x]	9.2.3 Atrous convolutions
+- [x]	9.2.3 Atrous Convolutions
 
 - [ ]	9.2.4 Atrous Spatial Pyramidal Pooling
 
@@ -414,7 +413,7 @@ Part III:
 
 - [ ]	11.5.2 Full MDP
 
-#### 11.6 Learning From An Expert 
+#### 11.6 Learning From an Expert 
 
 - [ ]	11.6.1 Imitation Learning
 
@@ -443,4 +442,4 @@ Part III:
 
 
 
-כל הזכויות שמורות @
+כל הזכויות שמורות Ⓒ
