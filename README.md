@@ -1,7 +1,10 @@
-# Deep-Learning-in-Hebrew
-# למידת מכונה ולמידה עמוקה בעברית
-
+<h1 align="center">Deep-Learning-in-Hebrew
+</h1>
+<h1 align="center">
+    למידת מכונה ולמידה עמוקה בעברית
+</h1>
 Add a star if the repository helped you 😊
+
 
 ![MDLH](https://user-images.githubusercontent.com/56107590/113211481-2d641380-927e-11eb-9e85-8faef47de082.png)
 
