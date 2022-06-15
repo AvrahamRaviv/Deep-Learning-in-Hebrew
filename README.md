@@ -66,7 +66,7 @@ If you find this book useful in your research work, please consider citing:
    
 --------------------------------------
 # Table of Content
-## 1. [Introducion to Machine Learning](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/01%20-%20Introduction.pdf)
+## 1. [Introducion to Machine Learning](01%20-%20Introduction.pdf)
 #### 1.1 What is Machine Learning?
 
 - [x] 1.1.1. The Basic Concept
@@ -81,7 +81,7 @@ If you find this book useful in your research work, please consider citing:
 
 - [x] 1.2.3. Probability
 
-## 2. [Machine Learning Algorithms](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/02%20-%20Machine%20Learning.pdf)
+## 2. [Machine Learning Algorithms](02%20-%20Machine%20Learning.pdf)
 #### 2.1. Supervised Learning Algorithms
 - [x] 2.1.1. Support Vector Machines (SVM)
 
@@ -123,7 +123,7 @@ If you find this book useful in your research work, please consider citing:
 - [x] 2.4.3. Boosting
 
 
-## 3. [Linear Neural Networks (Regression problems)](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/03%20-%20Regression.pdf)
+## 3. [Linear Neural Networks (Regression problems)](03%20-%20Regression.pdf)
 
 #### 3.1. Linear Regression
 - [x] 3.1.1. The Basic Concept
@@ -147,7 +147,7 @@ If you find this book useful in your research work, please consider citing:
 
 
 
-## 4. [Deep Neural Networks](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/04%20-%20DNN.pdf)
+## 4. [Deep Neural Networks](04%20-%20DNN.pdf)
 #### 4.1. MLP – Multilayer Perceptrons	
 
 - [x] 4.1.1. From a Single Neuron to Deep Neural Network	
@@ -183,7 +183,7 @@ If you find this book useful in your research work, please consider citing:
 
 
 
-## 5. [Convolutional Neural Networks](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/05%20-%20CNN.pdf)
+## 5. [Convolutional Neural Networks](05%20-%20CNN.pdf)
 
 #### 5.1.	Convolutional Layers	
 - [x] 5.1.1. From Fully-Connected Layers to Convolutions	
@@ -212,7 +212,7 @@ If you find this book useful in your research work, please consider citing:
 
 
 
-## 6. [Recurrent Neural Networks](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/06%20-%20RNN.pdf)
+## 6. [Recurrent Neural Networks](06%20-%20RNN.pdf)
 
  #### 6.1. Sequence Models	
 - [x] 6.1.1. Recurrent Neural Networks	
@@ -231,7 +231,7 @@ If you find this book useful in your research work, please consider citing:
 - [ ] 6.2.5. Sequence to Sequence Learning
 
 
-## 7. [Deep Generative Models](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/07%20-%20Deep%20Generative%20Models.pdf)
+## 7. [Deep Generative Models](07%20-%20Deep%20Generative%20Models.pdf)
 #### 7.1. Variational AutoEncoder (VAE)	
 - [x] 7.1.1. Dimensionality Reduction	
 
@@ -268,7 +268,7 @@ If you find this book useful in your research work, please consider citing:
 - [x] 7.3.4. PixelCNN++
 
 
-## 8. [Attention Mechanism](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/08%20-%20Attention.pdf)
+## 8. [Attention Mechanism](08%20-%20Attention.pdf)
 #### 8.1. Sequence to Sequence Learning and Attention
 
 - [x] 8.1.1. Attention in Seq2Seq Models
@@ -288,7 +288,7 @@ If you find this book useful in your research work, please consider citing:
 - [x] 8.2.5. Transformer Applications
 
 
-## 9. [Computer Vision](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/09%20-%20computer%20vision.pdf)
+## 9. [Computer Vision](09%20-%20Computer%20Vision.pdf)
 #### 9.1. Object Detection
 
 - [x]	9.1.1. Introduction to Object Detection
@@ -343,7 +343,7 @@ If you find this book useful in your research work, please consider citing:
 - [ ]   9.5.5. Zero-Shot Learning
 
 
-## 10. [Natural Language Process](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/10%20-%20Natural%20Language%20Processing.pdf)
+## 10. [Natural Language Process](10%20-%20Natural%20Language%20Processing.pdf)
 #### 10.1. Language Models and Word Representation
 - [x]	10.1.1. Basic Language Models
 
@@ -351,7 +351,7 @@ If you find this book useful in your research work, please consider citing:
 
 - [x]   10.1.3. COntextual Embeddings
 
-## 11. [Reinforcement Learning](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/11%20-%20Reinforecment%20Learning.pdf)
+## 11. [Reinforcement Learning](11%20-%20Reinforecment%20Learning.pdf)
 #### 11.1. Introduction to RL
 - [x]	11.1.1. Markov Decision Process (MDP) and RL
 
