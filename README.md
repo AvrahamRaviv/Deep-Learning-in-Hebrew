@@ -47,6 +47,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 - [Avshalom Dayan](https://www.linkedin.com/in/avshalomd/)
 
+- [Nitzan Madar](https://www.linkedin.com/in/nitzanmadar/)
+
 - [Rachel Wities](https://www.linkedin.com/in/rachel-wities-b3b80411/)
 
 - [Tomer Caspi](https://www.linkedin.com/in/tomer-caspi-3b9a49203/)
