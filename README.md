@@ -403,6 +403,15 @@ If you find this book useful in your research work, please consider citing:
 
 #### 11.7. Partially Observed Markov Decision Process (POMDP) 
 
+
+## 12. [Graph Neural Networks](10%20-%20Natural%20Language%20Processing.pdf)
+#### 12.1. Introduction to Graphs
+- [x]	12.1.1. Represent Data as a Graph
+
+- [x]	12.1.2. Tasks on Graphs
+
+- [x]   12.1.3. The challenge of learning graphs
+
 --------------------------------------
 
 
