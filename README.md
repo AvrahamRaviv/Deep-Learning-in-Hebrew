@@ -33,6 +33,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 - [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
 
+- [Nitzan Madar](https://www.linkedin.com/in/nitzanmadar/)
+
 - [Or Avrahami](https://www.linkedin.com/in/or-a-391692199/)
 
 - [Or Shemesh](https://www.linkedin.com/in/or-shemesh-a3b0b117b/)
