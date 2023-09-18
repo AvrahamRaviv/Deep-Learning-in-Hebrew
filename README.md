@@ -5,8 +5,7 @@
 </h1>
 Add a star if the repository helped you 😊
 
-
-![MDLH](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/deepnightleaners%20reviews/Coverpage.png)
+![MDLH](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/assets/56107590/805789c8-3a48-4e31-ac7a-dd90a2dee94a)
 
 For any issue please contact us at Avrahamsapir1@gmail.com.
 
