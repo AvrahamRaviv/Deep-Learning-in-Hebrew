@@ -9,6 +9,17 @@ Add a star if the repository helped you 😊
 
 For any issue please contact us at Avrahamsapir1@gmail.com.
 
+## 📓 Notebooks & Full Book (NEW!)
+
+This repository includes **Jupyter notebooks** that accompany the book and reflect its chapter-by-chapter structure.
+
+The **full content** (complete book PDFs + all notebooks + bonus material) is available via the project website.
+
+<p align="center">
+  <a href="https://avrahamraviv.github.io/Deep-Learning-in-Hebrew/">
+    <img src="https://img.shields.io/badge/View%20Purchase%20Page-Deep%20Learning%20in%20Hebrew-blue?style=for-the-badge">
+  </a>
+</p>
 
 ## People
 
