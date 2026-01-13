@@ -149,9 +149,15 @@
   <div id="step-2" style="display:none;">
     <p><b>שלב רישום פרטים</b></p>
 
-    <button class="bit-btn" onclick="openForm()">
+    <a
+      href="https://forms.gle/F7hftwVUJn8xQnyx5"
+      target="_blank"
+      rel="noopener"
+      class="bit-btn"
+      onclick="enableBitAfterForm()"
+    >
       מעבר לרישום פרטים
-    </button>
+    </a>
 
     <p style="font-size:0.9rem; margin-top:8px;">
       לאחר הרישום ניתן להמשיך לתשלום
@@ -212,19 +218,15 @@
     document.getElementById('step-2').style.display = 'block';
   }
 
-  function openForm() {
-    window.open("https://forms.gle/F7hftwVUJn8xQnyx5", "_blank");
+  function enableBitAfterForm() {
+  const bitBtn = document.getElementById('bit-btn');
+  bitBtn.disabled = false;
+  bitBtn.classList.remove('disabled');
 
-    // Enable ONLY the Bit button
-    const bitBtn = document.getElementById('bit-btn');
-    bitBtn.disabled = false;
-    bitBtn.classList.remove('disabled');
-
-    // Keep "paid" disabled until Bit is clicked
-    const paidBtn = document.getElementById('paid-btn');
-    paidBtn.disabled = true;
-    paidBtn.classList.add('disabled');
-  }
+  const paidBtn = document.getElementById('paid-btn');
+  paidBtn.disabled = true;
+  paidBtn.classList.add('disabled');
+}
 
   function openBit() {
     window.location.href = "bit://";
