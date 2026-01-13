@@ -35,12 +35,23 @@
       text-align: center;
     }
 
+    .logo {
+      max-width: 140px;
+      width: 100%;
+      margin: 0 auto 1rem auto;
+      display: block;
+    }
+
     h1 { color: var(--text); margin-bottom: 1rem; }
     p { color: var(--muted); line-height: 1.6; }
 
     .input-group { margin: 1.2rem 0; text-align: right; }
 
-    label { display: block; font-weight: bold; margin-bottom: 6px; }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
 
     input {
       width: 100%;
@@ -62,11 +73,23 @@
       font-weight: bold;
       cursor: pointer;
       margin-top: 1rem;
+      text-decoration: none;
+      display: inline-block;
     }
 
     .bit-btn.disabled {
       background: var(--disabled);
       cursor: not-allowed;
+    }
+
+    /* Proper disabling for <a> */
+    a.bit-btn.disabled {
+      pointer-events: none;
+      opacity: 0.6;
+    }
+
+    #paid-btn:not(.disabled) {
+      background: var(--success);
     }
 
     #download-area {
@@ -107,45 +130,40 @@
       text-decoration: none;
       margin-inline-start: 6px;
     }
-
-    .logo {
-    max-width: 140px;
-    width: 100%;
-    margin: 0 auto 1rem auto;
-    display: block;
-    }
-
-    #paid-btn:not(.disabled) {
-      background: var(--success);
-    }
-
   </style>
 </head>
 
 <body>
 
 <div class="container">
-    <img
+
+  <img
     src="https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/assets/56107590/805789c8-3a48-4e31-ac7a-dd90a2dee94a"
     alt="Deep Learning in Hebrew Logo"
     class="logo"
   />
+
   <h1>רכישת המחברות 📚</h1>
 
-  <!-- שלב 1 -->
+  <!-- STEP 1 -->
   <div id="step-1">
     <p>אנא הזינו שם מלא להמשך:</p>
+
     <div class="input-group">
       <label>שם מלא:</label>
       <input id="name" type="text" placeholder="שם מלא" oninput="checkName()">
     </div>
 
-    <button id="continue-btn" class="bit-btn disabled" disabled onclick="goToStep2()">
+    <button
+      id="continue-btn"
+      class="bit-btn disabled"
+      disabled
+      onclick="goToStep2()">
       המשך
     </button>
   </div>
 
-  <!-- שלב 2 -->
+  <!-- STEP 2 -->
   <div id="step-2" style="display:none;">
     <p><b>שלב רישום פרטים</b></p>
 
@@ -154,8 +172,8 @@
       target="_blank"
       rel="noopener"
       class="bit-btn"
-      onclick="enableBitAfterForm()"
-    >
+      role="button"
+      onclick="enableBitAfterForm();">
       מעבר לרישום פרטים
     </a>
 
@@ -171,36 +189,44 @@
       </span>
     </p>
 
-    <button id="bit-btn" class="bit-btn disabled" disabled onclick="openBit()">
+    <button
+      id="bit-btn"
+      class="bit-btn disabled"
+      disabled
+      onclick="openBit()">
       📲 מעבר לאפליקציית Bit
     </button>
 
-    <button id="paid-btn" class="bit-btn disabled" disabled onclick="showDownload()">
+    <button
+      id="paid-btn"
+      class="bit-btn disabled"
+      disabled
+      onclick="showDownload()">
       שילמתי – אשמח להוריד את הקובץ
     </button>
   </div>
 
-  <div id="download-area" style="display:none;">
-  <p>תודה רבה על האמון ❤️</p>
-  <a
-    href="https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u"
-    class="download-link"
-    target="_blank"
-    rel="noopener"
-  >
-    לחצו כאן לפתיחת תיקיית ההורדה
-  </a>
-</div>
-
+  <!-- STEP 3 -->
+  <div id="download-area">
+    <p>תודה רבה על האמון ❤️</p>
+    <a
+      href="https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u"
+      class="download-link"
+      target="_blank"
+      rel="noopener">
+      לחצו כאן לפתיחת תיקיית ההורדה
+    </a>
+  </div>
 
   <div class="trust-note">
     התשלום מבוסס אמון. אין סליקה אוטומטית.<br>
-    התשלום הוא דמי רצינות, על מנת שבאמת תשקיעו במחברות :).<br>
-     ניתן לפנות אלי במייל לקבלת קבלה ולכל שאלה:
+    התשלום הוא דמי רצינות כדי שתשקיעו במחברות 🙂<br>
+    ניתן לפנות אליי במייל:
     <a class="email-link" href="mailto:avrahamsapir1@gmail.com">
       avrahamsapir1@gmail.com
     </a>
   </div>
+
 </div>
 
 <script>
@@ -223,19 +249,18 @@
   }
 
   function enableBitAfterForm() {
-  const bitBtn = document.getElementById('bit-btn');
-  bitBtn.disabled = false;
-  bitBtn.classList.remove('disabled');
+    const bitBtn = document.getElementById('bit-btn');
+    bitBtn.disabled = false;
+    bitBtn.classList.remove('disabled');
 
-  const paidBtn = document.getElementById('paid-btn');
-  paidBtn.disabled = true;
-  paidBtn.classList.add('disabled');
-}
+    const paidBtn = document.getElementById('paid-btn');
+    paidBtn.disabled = true;
+    paidBtn.classList.add('disabled');
+  }
 
   function openBit() {
     window.location.href = "bit://";
 
-    // Now allow the user to click "I paid"
     const paidBtn = document.getElementById('paid-btn');
     paidBtn.disabled = false;
     paidBtn.classList.remove('disabled');
@@ -250,7 +275,6 @@
     window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   }
 </script>
-
 
 </body>
 </html>
