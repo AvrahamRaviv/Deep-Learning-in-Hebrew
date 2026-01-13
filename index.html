@@ -115,11 +115,15 @@
     }
 
     .logo {
-  max-width: 140px;
-  width: 100%;
-  margin: 0 auto 1rem auto;
-  display: block;
-}
+    max-width: 140px;
+    width: 100%;
+    margin: 0 auto 1rem auto;
+    display: block;
+    }
+
+    #paid-btn:not(.disabled) {
+      background: var(--success);
+    }
 
   </style>
 </head>
@@ -166,8 +170,7 @@
       📲 מעבר לאפליקציית Bit
     </button>
 
-    <button id="paid-btn" class="bit-btn disabled" disabled
-            style="background:var(--success);" onclick="showDownload()">
+    <button id="paid-btn" class="bit-btn disabled" disabled onclick="showDownload()">
       שילמתי – אשמח להוריד את הקובץ
     </button>
   </div>
@@ -210,13 +213,17 @@
   }
 
   function openForm() {
-    window.open("https://forms.gle/F7hftwVUJn8xQnyx5", "_blank");
+    window.open("PUT_YOUR_GOOGLE_FORM_LINK_HERE", "_blank");
 
-    // מפעיל את שאר הכפתורים
-    document.getElementById('bit-btn').disabled = false;
-    document.getElementById('paid-btn').disabled = false;
-    document.getElementById('bit-btn').classList.remove('disabled');
-    document.getElementById('paid-btn').classList.remove('disabled');
+    // Enable ONLY the Bit button
+    const bitBtn = document.getElementById('bit-btn');
+    bitBtn.disabled = false;
+    bitBtn.classList.remove('disabled');
+
+    // Keep the "paid" button disabled
+    const paidBtn = document.getElementById('paid-btn');
+    paidBtn.disabled = true;
+    paidBtn.classList.add('disabled');
   }
 
   function openBit() {
@@ -230,6 +237,17 @@
     document.getElementById('download-area').style.display = 'block';
     window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   }
+  function openBit() {
+  window.location.href = "bit://";
+
+  // Now allow the user to click "I paid"
+  const paidBtn = document.getElementById('paid-btn');
+  paidBtn.disabled = false;
+  paidBtn.classList.remove('disabled');
+
+  setTimeout(() => {
+    alert("אם Bit לא נפתחה – פתחו ידנית ושלחו 19 ש״ח למספר 054-2616416");
+  }, 1200);
 </script>
 
 </body>
