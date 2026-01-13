@@ -11,6 +11,8 @@
       --bg: #f8f9fa;
       --text: #333;
       --muted: #666;
+      --disabled: #bbb;
+      --success: #28a745;
     }
 
     body {
@@ -33,31 +35,16 @@
       text-align: center;
     }
 
-    h1 {
-      color: var(--text);
-      margin-bottom: 1rem;
-    }
+    h1 { color: var(--text); margin-bottom: 1rem; }
+    p { color: var(--muted); line-height: 1.6; }
 
-    p {
-      color: var(--muted);
-      line-height: 1.6;
-    }
+    .input-group { margin: 1.2rem 0; text-align: right; }
 
-    .input-group {
-      margin: 1.2rem 0;
-      text-align: right;
-    }
-
-    label {
-      display: block;
-      font-weight: bold;
-      margin-bottom: 6px;
-    }
+    label { display: block; font-weight: bold; margin-bottom: 6px; }
 
     input {
       width: 100%;
       padding: 12px;
-      margin-bottom: 8px;
       border: 1px solid #ddd;
       border-radius: 6px;
       font-size: 1rem;
@@ -71,14 +58,15 @@
       padding: 15px;
       width: 100%;
       border-radius: 8px;
-      font-size: 1.1rem;
+      font-size: 1.05rem;
       font-weight: bold;
       cursor: pointer;
       margin-top: 1rem;
     }
 
-    .bit-btn:hover {
-      opacity: 0.95;
+    .bit-btn.disabled {
+      background: var(--disabled);
+      cursor: not-allowed;
     }
 
     #download-area {
@@ -105,110 +93,121 @@
       padding-top: 10px;
       font-style: italic;
     }
+
     .email-link{
-    display:inline-block;
-    direction:ltr;
-    unicode-bidi: plaintext;
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-    font-size: 0.95em;
-    padding: 2px 8px;
-    border-radius: 8px;
-    background: #f1f3f5;
-    border: 1px solid #e6e8eb;
-    color: #2b57f1;
-    text-decoration: none;
-    margin-inline-start: 6px;
-  }
-  .email-link:hover{
-    text-decoration: underline;
-  }
+      display:inline-block;
+      direction:ltr;
+      unicode-bidi: plaintext;
+      font-family: ui-monospace, monospace;
+      background: #f1f3f5;
+      border: 1px solid #e6e8eb;
+      padding: 2px 8px;
+      border-radius: 8px;
+      color: var(--primary);
+      text-decoration: none;
+      margin-inline-start: 6px;
+    }
   </style>
 </head>
+
+<body>
 
 <div class="container">
   <h1>רכישת המחברות 📚</h1>
 
-  <!-- שלב 1: פרטים -->
+  <!-- שלב 1 -->
   <div id="step-1">
     <p>אנא הזינו שם מלא להמשך:</p>
-
     <div class="input-group">
       <label>שם מלא:</label>
       <input id="name" type="text" placeholder="שם מלא" oninput="checkName()">
     </div>
 
-      <button
-      id="continue-btn"
-      class="bit-btn"
-      style="background:#bbb; cursor:not-allowed;"
-      disabled
-      onclick="goToPayment()">
+    <button id="continue-btn" class="bit-btn disabled" disabled onclick="goToStep2()">
       המשך
     </button>
-
   </div>
 
-  <!-- שלב 2: תשלום -->
+  <!-- שלב 2 -->
   <div id="step-2" style="display:none;">
+    <p><b>שלב רישום פרטים</b></p>
+
+    <button class="bit-btn" onclick="openForm()">
+      מעבר לרישום פרטים
+    </button>
+
+    <p style="font-size:0.9rem; margin-top:8px;">
+      לאחר הרישום ניתן להמשיך לתשלום
+    </p>
+
     <p>
       <b>סכום לתשלום:</b> 19 ש״ח<br>
       <b>מספר:</b><br>
-      <span style="font-size:1.4rem; color:#2b57f1; font-weight:bold;">
+      <span style="font-size:1.4rem; color:var(--primary); font-weight:bold;">
         054-2616416
       </span>
     </p>
 
-    <button class="bit-btn" onclick="openBit()">
+    <button id="bit-btn" class="bit-btn disabled" disabled onclick="openBit()">
       📲 מעבר לאפליקציית Bit
     </button>
 
-    <button class="bit-btn" style="background:#28a745;" onclick="showDownload()">
+    <button id="paid-btn" class="bit-btn disabled" disabled
+            style="background:var(--success);" onclick="showDownload()">
       שילמתי – פתח הורדה
     </button>
   </div>
 
-  <!-- שלב 3: הורדה -->
-  <div id="download-area" style="display:none;">
+  <!-- שלב 3 -->
+  <div id="download-area">
     <p>תודה רבה על האמון ❤️</p>
-    <a
-      href="https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u?usp=drive_link"
-      class="download-link"
-      target="_blank"
-      rel="noopener"
-    >
+    <a href="https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u?usp=drive_link"
+       class="download-link" target="_blank" rel="noopener">
       לחצו כאן לפתיחת תיקיית ההורדה
     </a>
   </div>
 
   <div class="trust-note">
-    התשלום מבוסס אמון. אין סליקה אוטומטית כי חבל על העמלות :) <br>
+    התשלום מבוסס אמון. אין סליקה אוטומטית.<br>
     ניתן לפנות אליי במייל לקבלת קבלה:
-    <a class="email-link" href="mailto:avrahamsapir1@gmail.com">avrahamsapir1@gmail.com</a>
+    <a class="email-link" href="mailto:avrahamsapir1@gmail.com">
+      avrahamsapir1@gmail.com
+    </a>
   </div>
-
 </div>
 
-
 <script>
-  function goToPayment() {
-      const name = document.getElementById('name').value.trim();
-      
-      if (!name) {
-        alert("אנא מלאו שם מלא כדי להמשיך");
-        return;
-      }
+  function checkName() {
+    const name = document.getElementById('name').value.trim();
+    const btn = document.getElementById('continue-btn');
+    if (name) {
+      btn.disabled = false;
+      btn.classList.remove('disabled');
+    } else {
+      btn.disabled = true;
+      btn.classList.add('disabled');
+    }
+  }
 
+  function goToStep2() {
     document.getElementById('step-1').style.display = 'none';
     document.getElementById('step-2').style.display = 'block';
+  }
+
+  function openForm() {
+    window.open("https://forms.gle/F7hftwVUJn8xQnyx5", "_blank");
+
+    // מפעיל את שאר הכפתורים
+    document.getElementById('bit-btn').disabled = false;
+    document.getElementById('paid-btn').disabled = false;
+    document.getElementById('bit-btn').classList.remove('disabled');
+    document.getElementById('paid-btn').classList.remove('disabled');
   }
 
   function openBit() {
     window.location.href = "bit://";
     setTimeout(() => {
-      alert(
-        "אם אפליקציית Bit לא נפתחה:\n" +
-        "פתחו אותה ידנית ושלחו 19 ש״ח למספר 054-2616416"
-      );
+      alert("אם Bit לא נפתחה – פתחו ידנית ושלחו 19 ש״ח למספר 054-2616416");
     }, 1200);
   }
 
@@ -216,22 +215,6 @@
     document.getElementById('download-area').style.display = 'block';
     window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   }
-
-  function checkName() {
-  const name = document.getElementById('name').value.trim();
-  const btn = document.getElementById('continue-btn');
-
-  if (name.length > 0) {
-    btn.disabled = false;
-    btn.style.background = "#2b57f1";
-    btn.style.cursor = "pointer";
-  } else {
-    btn.disabled = true;
-    btn.style.background = "#bbb";
-    btn.style.cursor = "not-allowed";
-  }
-}
-
 </script>
 
 </body>
