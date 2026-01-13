@@ -132,14 +132,26 @@
       </span>
     </p>
 
-    <button class="bit-btn" onclick="showDownload()">
-      שילמתי בביט – פתח הורדה
-    </button>
+<button class="bit-btn" onclick="openFormThenDownload()">
+  שילמתי בביט – שלח פרטים ופתח הורדה
+</button>
+
+<script>
+  function openFormThenDownload() {
+    // פותח טופס למילוי (זה מה שגורם לך לקבל מייל דרך Google Forms)
+    window.open("https://forms.gle/AituecHZsp3W6Mjf6", "_blank");
+
+    // פותח את ההורדה בדף
+    document.getElementById('download-area').style.display = 'block';
+    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+  }
+</script>
+
 
     <div id="download-area">
       <p>תודה רבה על האמון ❤️</p>
       <a
-        href="[https://drive.google.com/drive/u/0/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u]"
+        href="[https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u?usp=drive_link]"
         class="download-link"
         download
       >
