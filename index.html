@@ -123,14 +123,31 @@
       <input type="email" placeholder="your@email.com">
     </div>
 
-    <p>
-      <b>איך משלמים?</b><br>
-      שלחו את הסכום בביט למספר:
-      <br>
-      <span style="font-size: 1.4rem; color: var(--primary); font-weight: bold;">
-        054-2616416
-      </span>
-    </p>
+<button class="bit-btn" onclick="openBit()">
+  📲 מעבר לאפליקציית Bit
+</button>
+
+<p style="margin-top:10px; font-size:0.9rem; color:#666;">
+  אם האפליקציה לא נפתחת אוטומטית – פתחו את Bit ידנית ושלחו תשלום למספר:
+  <br>
+  <b style="font-size:1.1rem;">054-2616416</b>
+</p>
+
+<script>
+  function openBit() {
+    // ניסיון לפתוח אפליקציה (לא מובטח)
+    window.location.href = "bit://";
+
+    // fallback – אחרי שנייה מציג הוראה
+    setTimeout(() => {
+      alert(
+        "אם אפליקציית Bit לא נפתחה:\n" +
+        "פתחו את Bit ידנית ושלחו תשלום למספר 054-2616416"
+      );
+    }, 1200);
+  }
+</script>
+
 
 <button class="bit-btn" onclick="openFormThenDownload()">
   שילמתי בביט – שלח פרטים ופתח הורדה
@@ -150,13 +167,15 @@
 
     <div id="download-area">
       <p>תודה רבה על האמון ❤️</p>
-      <a
-        href="[https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u?usp=drive_link]"
-        class="download-link"
-        download
-      >
-        לחצו כאן להורדת קובץ ה-ZIP
-      </a>
+<a
+  href="https://drive.google.com/drive/folders/1gyP6tYrXAG_2SME8Xwp3Hu8eQc_TgT9u?usp=drive_link"
+  class="download-link"
+  target="_blank"
+  rel="noopener"
+>
+  לחצו כאן לפתיחת תיקיית ההורדה ב-Google Drive
+</a>
+
     </div>
 
     <div class="trust-note">
