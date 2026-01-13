@@ -113,19 +113,22 @@
 
   <!-- שלב 1: פרטים -->
   <div id="step-1">
-    <p>אנא הזינו שם ומייל להמשך:</p>
+    <p>אנא הזינו שם מלא להמשך:</p>
 
     <div class="input-group">
       <label>שם מלא:</label>
-      <input id="name" type="text" placeholder="שם מלא">
-      
-      <label style="margin-top:8px;">אימייל:</label>
-      <input id="email" type="email" placeholder="your@email.com">
+      <input id="name" type="text" placeholder="שם מלא" oninput="checkName()">
     </div>
 
-    <button class="bit-btn" onclick="goToPayment()">
+      <button
+      id="continue-btn"
+      class="bit-btn"
+      style="background:#bbb; cursor:not-allowed;"
+      disabled
+      onclick="goToPayment()">
       המשך
     </button>
+
   </div>
 
   <!-- שלב 2: תשלום -->
@@ -169,13 +172,12 @@
 
 <script>
   function goToPayment() {
-    const name = document.getElementById('name').value.trim();
-    const email = document.getElementById('email').value.trim();
-
-    if (!name || !email) {
-      alert("אנא מלאו שם ומייל כדי להמשיך");
-      return;
-    }
+      const name = document.getElementById('name').value.trim();
+      
+      if (!name) {
+        alert("אנא מלאו שם מלא כדי להמשיך");
+        return;
+      }
 
     document.getElementById('step-1').style.display = 'none';
     document.getElementById('step-2').style.display = 'block';
@@ -195,6 +197,22 @@
     document.getElementById('download-area').style.display = 'block';
     window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   }
+
+  function checkName() {
+  const name = document.getElementById('name').value.trim();
+  const btn = document.getElementById('continue-btn');
+
+  if (name.length > 0) {
+    btn.disabled = false;
+    btn.style.background = "#2b57f1";
+    btn.style.cursor = "pointer";
+  } else {
+    btn.disabled = true;
+    btn.style.background = "#bbb";
+    btn.style.cursor = "not-allowed";
+  }
+}
+
 </script>
 
 </body>
