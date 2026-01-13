@@ -1,58 +1,27 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="he" dir="rtl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>רכישת המחברות שלי</title>
-    <style>
-        :root { --primary: #007bff; --success: #28a745; }
-        body { font-family: -apple-system, system-ui, sans-serif; background: #f8f9fa; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
-        .container { background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); max-width: 450px; width: 90%; text-align: center; }
-        h1 { color: #333; margin-bottom: 1rem; }
-        p { color: #666; line-height: 1.6; }
-        .input-group { margin: 1rem 0; text-align: right; }
-        label { display: block; margin-bottom: 5px; font-weight: bold; }
-        input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 6px; box-sizing: border-box; }
-        .bit-btn { background: #2b57f1; color: white; border: none; padding: 15px; width: 100%; border-radius: 8px; font-size: 1.1rem; font-weight: bold; cursor: pointer; text-decoration: none; display: block; margin-top: 1rem; transition: transform 0.2s; }
-        .bit-btn:hover { transform: scale(1.02); }
-        .trust-note { font-size: 0.85rem; color: #888; margin-top: 1rem; font-style: italic; border-top: 1px solid #eee; padding-top: 10px; }
-        #download-area { display: none; margin-top: 2rem; background: #e9f7ef; padding: 15px; border-radius: 8px; border: 1px solid #c3e6cb; }
-        .download-link { color: #155724; font-weight: bold; text-decoration: underline; font-size: 1.2rem; }
-    </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>בדיקת GitHub Pages</title>
+  <style>
+    body { margin:0; min-height:100vh; display:flex; align-items:center; justify-content:center;
+           font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif; background:#f6f7fb; }
+    .box { background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.08);
+           width:min(520px, 92vw); text-align:center; }
+    h1 { margin:0 0 10px; }
+    p { margin:0 0 16px; color:#444; line-height:1.6; }
+    button { background:#2b57f1; color:#fff; border:0; padding:12px 16px; border-radius:10px;
+             font-size:1rem; cursor:pointer; }
+    #msg { margin-top:12px; color:#0a7a2f; font-weight:600; display:none; }
+  </style>
 </head>
 <body>
-
-<div class="container">
-    <h1>רכישת המחברות 📚</h1>
-    <p>תודה שאתם בוחרים לתמוך ביצירה שלי! המחיר הוא [כאן שים מחיר] ש"ח.</p>
-
-    <div class="input-group">
-        <label>שם מלא ומייל (למשלוח קבלה ידנית):</label>
-        <input type="text" placeholder="שם מלא">
-        <input type="email" placeholder="your@email.com" style="margin-top: 8px;">
-    </div>
-
-    <p><b>איך משלמים?</b> שלחו את הסכום בביט למספר:<br>
-    <span style="font-size: 1.4rem; color: #2b57f1; font-weight: bold;">05X-XXXXXXX</span></p>
-
-    <button class="bit-btn" onclick="showDownload()">שילמתי בביט - פתח הורדה</button>
-
-    <div id="download-area">
-        <p>תודה רבה על האמון! ❤️</p>
-        <a href="[כאן-שים-את-הלינק-לגוגל-דרייב]" class="download-link" download>לחצו כאן להורדת קובץ ה-ZIP</a>
-    </div>
-
-    <div class="trust-note">
-        * בחרתי לא להשתמש בסליקה אוטומטית כדי לחסוך עמלות ולשמור על מחיר הוגן. המערכת מבוססת על האמון שלכם. אם אתם צריכים קבלה, שלחו לי מייל.
-    </div>
-</div>
-
-<script>
-    function showDownload() {
-        document.getElementById('download-area').style.display = 'block';
-        window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-    }
-</script>
-
+  <div class="box">
+    <h1>✅ GitHub Pages עובד?</h1>
+    <p>אם אתם רואים עברית מיושרת לימין וכפתור כחול — ה־HTML נטען ומרונדר תקין.</p>
+    <button onclick="document.getElementById('msg').style.display='block'">לחץ לבדיקה</button>
+    <div id="msg">הצלחה! JavaScript עובד 🎉</div>
+  </div>
 </body>
 </html>
