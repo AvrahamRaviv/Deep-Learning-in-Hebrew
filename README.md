@@ -17,7 +17,7 @@ The **full content** (complete book PDFs + all notebooks + bonus material) is av
 
 <p align="center">
   <a href="https://avrahamraviv.github.io/Deep-Learning-in-Hebrew/">
-    <img src="https://img.shields.io/badge/View%20Purchase%20Page-Deep%20Learning%20in%20Hebrew-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/View%20Notebooks%20Page-Deep%20Learning%20in%20Hebrew-blue?style=for-the-badge">
   </a>
 </p>
 
