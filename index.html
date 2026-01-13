@@ -35,12 +35,6 @@
       text-align: center;
     }
 
-    <img
-  src="https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/assets/56107590/805789c8-3a48-4e31-ac7a-dd90a2dee94a"
-  alt="Deep Learning in Hebrew Logo"
-  class="logo"
-/>
-
     h1 { color: var(--text); margin-bottom: 1rem; }
     p { color: var(--muted); line-height: 1.6; }
 
@@ -131,6 +125,11 @@
 <body>
 
 <div class="container">
+    <img
+    src="https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/assets/56107590/805789c8-3a48-4e31-ac7a-dd90a2dee94a"
+    alt="Deep Learning in Hebrew Logo"
+    class="logo"
+  />
   <h1>רכישת המחברות 📚</h1>
 
   <!-- שלב 1 -->
@@ -198,6 +197,7 @@
   function checkName() {
     const name = document.getElementById('name').value.trim();
     const btn = document.getElementById('continue-btn');
+
     if (name) {
       btn.disabled = false;
       btn.classList.remove('disabled');
@@ -220,7 +220,7 @@
     bitBtn.disabled = false;
     bitBtn.classList.remove('disabled');
 
-    // Keep the "paid" button disabled
+    // Keep "paid" disabled until Bit is clicked
     const paidBtn = document.getElementById('paid-btn');
     paidBtn.disabled = true;
     paidBtn.classList.add('disabled');
@@ -228,6 +228,12 @@
 
   function openBit() {
     window.location.href = "bit://";
+
+    // Now allow the user to click "I paid"
+    const paidBtn = document.getElementById('paid-btn');
+    paidBtn.disabled = false;
+    paidBtn.classList.remove('disabled');
+
     setTimeout(() => {
       alert("אם Bit לא נפתחה – פתחו ידנית ושלחו 19 ש״ח למספר 054-2616416");
     }, 1200);
@@ -237,18 +243,8 @@
     document.getElementById('download-area').style.display = 'block';
     window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   }
-  function openBit() {
-  window.location.href = "bit://";
-
-  // Now allow the user to click "I paid"
-  const paidBtn = document.getElementById('paid-btn');
-  paidBtn.disabled = false;
-  paidBtn.classList.remove('disabled');
-
-  setTimeout(() => {
-    alert("אם Bit לא נפתחה – פתחו ידנית ושלחו 19 ש״ח למספר 054-2616416");
-  }, 1200);
 </script>
+
 
 </body>
 </html>
