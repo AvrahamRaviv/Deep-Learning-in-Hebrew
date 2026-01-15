@@ -80,7 +80,7 @@ If you find this book useful in your research work, please consider citing:
    
 --------------------------------------
 # Table of Content
-## 1. [Introducion to Machine Learning](01%20-%20Introduction.pdf)
+## 1. [Introduction to Machine Learning](01%20-%20Introduction.pdf)
 #### 1.1 What is Machine Learning?
 
 - [x] 1.1.1. The Basic Concept
